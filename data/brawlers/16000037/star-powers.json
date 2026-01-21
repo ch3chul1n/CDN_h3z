@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000240,
+      "name": "OVERGROWTH",
+      "path": "overgrowth",
+      "version": 1,
+      "description": "Every x seconds, the next Seed Bomb will explode with a larger explosion radius.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, the next Seed Bomb will explode with a larger explosion radius.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000240.png",
+      "released": true
+    },
+    {
+      "id": 23000241,
+      "name": "PHOTOSYNTHESIS",
+      "path": "photosynthesis",
+      "version": 1,
+      "description": "Sprout activates a shield, partially protecting itself from all attacks while inside a bush.",
+      "descriptionHtml": "Sprout activates a shield, partially protecting itself from all attacks while inside a bush.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000241.png",
+      "released": true
+    }
+  ]
+}

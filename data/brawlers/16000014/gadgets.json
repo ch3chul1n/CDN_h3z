@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000263,
+      "name": "SUPER-TOTEM",
+      "path": "super-totem",
+      "version": 1,
+      "description": "Bo places a totem that increases allies' Super charging rate by x%. The totem slowly loses its health over time.",
+      "descriptionHtml": "Bo places a totem that increases allies' Super charging rate by <span style=\"color:#00cc00;\">x%</span>. The totem slowly loses its health over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000263.png",
+      "released": true
+    },
+    {
+      "id": 23000289,
+      "name": "TRIPWIRE",
+      "path": "tripwire",
+      "version": 1,
+      "description": "Bo triggers all of his mines after x seconds. During the delay the mines are completely undetectable to opponents.",
+      "descriptionHtml": "Bo triggers all of his mines after <span style=\"color:#00cc00;\">x</span> seconds. During the delay the mines are completely undetectable to opponents.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000289.png",
+      "released": true
+    }
+  ]
+}

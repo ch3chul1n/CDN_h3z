@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000283,
+      "name": "TO-THE-MAX",
+      "path": "to-the-max",
+      "version": 1,
+      "description": "Surge's main attack now splits when hitting walls.",
+      "descriptionHtml": "Surge's main attack now splits when hitting walls.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000283.png",
+      "released": true
+    },
+    {
+      "id": 23000284,
+      "name": "SERVE-ICE-COLD",
+      "path": "serve-ice-cold",
+      "version": 1,
+      "description": "Surge keeps his STAGE 1 Super upgrade for the full match duration.",
+      "descriptionHtml": "Surge keeps his STAGE 1 Super upgrade for the full match duration.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000284.png",
+      "released": true
+    }
+  ]
+}

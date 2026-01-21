@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000885,
+      "name": "REGULATE",
+      "path": "regulate",
+      "version": 1,
+      "description": "Ollie jumps and does a rad kickflip, hypnotizing all enemies where he lands for x seconds.",
+      "descriptionHtml": "Ollie jumps and does a rad kickflip, hypnotizing all enemies where he lands for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000885.png",
+      "released": true
+    },
+    {
+      "id": 23000886,
+      "name": "ALL-EYEZ-ON-ME",
+      "path": "all-eyez-on-me",
+      "version": 1,
+      "description": "Ollie's next attack will hypnotize any enemies hit for x seconds.",
+      "descriptionHtml": "Ollie's next attack will hypnotize any enemies hit for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000886.png",
+      "released": true
+    }
+  ]
+}

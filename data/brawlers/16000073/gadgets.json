@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000611,
+      "name": "REROUTING",
+      "path": "rerouting",
+      "version": 1,
+      "description": "Chuck removes the nearest Post and recharges his Super.",
+      "descriptionHtml": "Chuck removes the nearest Post and recharges his Super.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000611.png",
+      "released": true
+    },
+    {
+      "id": 23000612,
+      "name": "GHOST-TRAIN",
+      "path": "ghost-train",
+      "version": 1,
+      "description": "Chuck's next Super can go through walls!",
+      "descriptionHtml": "Chuck's next Super can go through walls!",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000612.png",
+      "released": true
+    }
+  ]
+}

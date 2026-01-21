@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000079,
+      "name": "MORE-ROCKETS",
+      "path": "more-rockets",
+      "version": 1,
+      "description": "Rocket Rain now rains down x% more rockets.",
+      "descriptionHtml": "Rocket Rain now rains down <span style=\"color:#00cc00;\">x%</span> more rockets.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000079.png",
+      "released": true
+    },
+    {
+      "id": 23000150,
+      "name": "ROCKET-NO-4",
+      "path": "rocket-no-4",
+      "version": 1,
+      "description": "Brock loads a fourth rocket into his launcher, increasing his ammo capacity (and discarding the thermos bottle he's been keeping in his launcher's fourth tube).",
+      "descriptionHtml": "Brock loads a fourth rocket into his launcher, increasing his ammo capacity (and discarding the thermos bottle he's been keeping in his launcher's fourth tube).",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000150.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001047,
+      "name": "THUNDERSTRUCK",
+      "path": "thunderstruck",
+      "version": 1,
+      "description": "Brawlers damaged by Ziggy's Super are slowed by x% for x sec.",
+      "descriptionHtml": "Brawlers damaged by Ziggy's Super are slowed by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> sec.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001047.png",
+      "released": true
+    },
+    {
+      "id": 23001048,
+      "name": "THE-GREAT-ZIGGINI",
+      "path": "the-great-ziggini",
+      "version": 1,
+      "description": "Hitting with a lightning strike increases the damage of the next main attack by x%.",
+      "descriptionHtml": "Hitting with a lightning strike increases the damage of the next main attack by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001048.png",
+      "released": true
+    }
+  ]
+}

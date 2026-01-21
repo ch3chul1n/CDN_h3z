@@ -1,0 +1,27 @@
+{
+  "id": 16000075,
+  "avatarId": 28000381,
+  "name": "MICO",
+  "hash": "mico",
+  "path": "mico",
+  "fankit": "mico",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/mico",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000075.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000075.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000075.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Mico's the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
+  "descriptionHtml": "Mico's the sound guy in Brawlywood, but one could be forgiven for thinking he's actually a celebrity given all the bragging and name-dropping. Hot-tempered and unstable, he cannot take a joke. Don't ever call him funny...",
+  "videos": []
+}

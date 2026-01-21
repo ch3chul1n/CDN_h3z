@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000277,
+      "name": "SPRING-EJECTOR",
+      "path": "spring-ejector",
+      "version": 1,
+      "description": "Gale drops a bounce pad underfoot, launching friend and foe alike into the air.",
+      "descriptionHtml": "Gale drops a bounce pad underfoot, launching friend and foe alike into the air.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000277.png",
+      "released": true
+    },
+    {
+      "id": 23000407,
+      "name": "TWISTER",
+      "path": "twister",
+      "version": 1,
+      "description": "Gale uses his leaf blower to create a local tornado, which will push away any opponents that try to pass through.",
+      "descriptionHtml": "Gale uses his leaf blower to create a local tornado, which will push away any opponents that try to pass through.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000407.png",
+      "released": true
+    }
+  ]
+}

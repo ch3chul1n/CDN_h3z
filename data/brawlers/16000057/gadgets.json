@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000472,
+      "name": "DROP-THE-BASS",
+      "path": "drop-the-bass",
+      "version": 1,
+      "description": "Janet deploys a speaker that deals x damage per second to all enemies in the area until it gets destroyed.",
+      "descriptionHtml": "Janet deploys a speaker that deals <span style=\"color:#00cc00;\">x</span> damage per second to all enemies in the area until it gets destroyed.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000472.png",
+      "released": true
+    },
+    {
+      "id": 23000473,
+      "name": "BACKSTAGE-PASS",
+      "path": "backstage-pass",
+      "version": 1,
+      "description": "Janet's next High Note pushes her back, even over walls. The more focused her attack is, the further she'll be pushed back.",
+      "descriptionHtml": "Janet's next High Note pushes her back, even over walls. The more focused her attack is, the further she'll be pushed back.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000473.png",
+      "released": true
+    }
+  ]
+}

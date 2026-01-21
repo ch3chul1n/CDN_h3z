@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000273,
+      "name": "SPEEDLOADER",
+      "path": "speedloader",
+      "version": 1,
+      "description": "Colt fires two quick shots that slow targets. Deals <!card.accessory.skill.damage.scaleToLevel> damage.",
+      "descriptionHtml": "Colt fires two quick shots that slow targets. Deals <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000273.png",
+      "released": true
+    },
+    {
+      "id": 23000319,
+      "name": "SILVER-BULLET",
+      "path": "silver-bullet",
+      "version": 1,
+      "description": "Colt fires a bullet that destroys the environment and pierces Brawlers. Deals <!card.accessory.skill.damage.scaleToLevel> damage. Consumes ammo.",
+      "descriptionHtml": "Colt fires a bullet that destroys the environment and pierces Brawlers. Deals <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage. Consumes ammo.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000319.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000078,
+      "name": "BERSERKER",
+      "path": "berserker",
+      "version": 1,
+      "description": "When Bull falls below x% health, his reload speed doubles!",
+      "descriptionHtml": "When Bull falls below <span style=\"color:#00cc00;\">x%</span> health, his reload speed doubles!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000078.png",
+      "released": true
+    },
+    {
+      "id": 23000137,
+      "name": "TOUGH-GUY",
+      "path": "tough-guy",
+      "version": 1,
+      "description": "When Bull falls below x% health, he gains a shield that reduces all damage he takes by x%.",
+      "descriptionHtml": "When Bull falls below <span style=\"color:#00cc00;\">x%</span> health, he gains a shield that reduces all damage he takes by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000137.png",
+      "released": true
+    }
+  ]
+}

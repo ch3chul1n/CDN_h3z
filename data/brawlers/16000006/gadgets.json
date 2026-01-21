@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000250,
+      "name": "STICKY-SYRUP-MIXER",
+      "path": "sticky-syrup-mixer",
+      "version": 1,
+      "description": "Barley drops a sticky concoction that leaves a puddle, slowing down all enemies that make contact with it.",
+      "descriptionHtml": "Barley drops a sticky concoction that leaves a puddle, slowing down all enemies that make contact with it.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000250.png",
+      "released": true
+    },
+    {
+      "id": 23000293,
+      "name": "HERBAL-TONIC",
+      "path": "herbal-tonic",
+      "version": 1,
+      "description": "Barley throws a healing potion at nearby allies that creates an area that heals for x health per second.",
+      "descriptionHtml": "Barley throws a healing potion at nearby allies that creates an area that heals for <span style=\"color:#00cc00;\">x</span> health per second.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000293.png",
+      "released": true
+    }
+  ]
+}

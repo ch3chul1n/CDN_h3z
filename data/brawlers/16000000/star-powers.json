@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000076,
+      "name": "SHELL-SHOCK",
+      "path": "shell-shock",
+      "version": 1,
+      "description": "Shelly's Super shells slow down enemies for x sec!",
+      "descriptionHtml": "Shelly's Super shells slow down enemies for <span style=\"color:#00cc00;\">x</span> sec!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000076.png",
+      "released": true
+    },
+    {
+      "id": 23000135,
+      "name": "BAND-AID",
+      "path": "band-aid",
+      "version": 1,
+      "description": "When Shelly falls below x% health, she instantly heals for x health. Band-Aid recharges in x sec.",
+      "descriptionHtml": "When Shelly falls below <span style=\"color:#00cc00;\">x%</span> health, she instantly heals for <span style=\"color:#00cc00;\">x</span> health. Band-Aid recharges in <span style=\"color:#00cc00;\">x</span> sec.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000135.png",
+      "released": true
+    }
+  ]
+}

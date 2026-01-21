@@ -1,0 +1,27 @@
+{
+  "id": 16000050,
+  "avatarId": 28000068,
+  "name": "GRIFF",
+  "hash": "griff",
+  "path": "griff",
+  "fankit": "griff",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/griff",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000050.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000050.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000050.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
+  "descriptionHtml": "Griff acts like a rich, successful entrepreneur, but his only business is the failing Starr Park Gift Shop. Oddly, he's never around when the bank calls.",
+  "videos": []
+}

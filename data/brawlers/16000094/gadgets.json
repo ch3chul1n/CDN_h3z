@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000940,
+      "name": "GRACIOUS-HOST",
+      "path": "gracious-host",
+      "version": 1,
+      "description": "Switch to Ninja Aspect and gain x% Movement Speed for x sec",
+      "descriptionHtml": "Switch to Ninja Aspect and gain <span style=\"color:#00cc00;\">x%</span> Movement Speed for <span style=\"color:#00cc00;\">x</span> sec",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000940.png",
+      "released": true
+    },
+    {
+      "id": 23000941,
+      "name": "HENSOJUTSU",
+      "path": "hensojutsu",
+      "version": 1,
+      "description": "Switch to Ninja Aspect and gain short invisibility",
+      "descriptionHtml": "Switch to Ninja Aspect and gain short invisibility",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000941.png",
+      "released": true
+    }
+  ]
+}

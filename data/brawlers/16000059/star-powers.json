@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000495,
+      "name": "STENCIL-GLUE",
+      "path": "stencil-glue",
+      "version": 1,
+      "description": "Cil mightily squeezes the enemy with all his might. Preventing them from attacking for x% longer.",
+      "descriptionHtml": "Cil mightily squeezes the enemy with all his might. Preventing them from attacking for <span style=\"color:#00cc00;\">x%</span> longer.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000495.png",
+      "released": true
+    },
+    {
+      "id": 23000496,
+      "name": "INK-REFILLS",
+      "path": "ink-refills",
+      "version": 1,
+      "description": "Otis now shoots x% more ink drops.",
+      "descriptionHtml": "Otis now shoots <span style=\"color:#00cc00;\">x%</span> more ink drops.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000496.png",
+      "released": true
+    }
+  ]
+}

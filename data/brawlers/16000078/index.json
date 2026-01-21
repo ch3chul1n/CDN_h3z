@@ -1,0 +1,27 @@
+{
+  "id": 16000078,
+  "avatarId": 28000429,
+  "name": "MELODIE",
+  "hash": "melodie",
+  "path": "melodie",
+  "fankit": "melodie",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/melodie",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000078.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000078.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000078.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
+  "descriptionHtml": "When it comes to Karaoke, Melodie shows no mercy. Armed with her kawaii looks and devilish set of pipes, she never fails to steal the limelight.",
+  "videos": []
+}

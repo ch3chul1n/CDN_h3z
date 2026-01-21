@@ -1,0 +1,27 @@
+{
+  "id": 16000037,
+  "avatarId": 28000050,
+  "name": "SPROUT",
+  "hash": "sprout",
+  "path": "sprout",
+  "fankit": "sprout",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/sprout",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000037.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000037.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000037.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
+  "descriptionHtml": "Sprout appears to be a cute gardening robot who helps Rosa around the Biodome, but it's actually an incubator with arms and wheels for a strange pink seed!",
+  "videos": []
+}

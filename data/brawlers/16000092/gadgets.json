@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000917,
+      "name": "BACK-TO-THE-FINXTURE",
+      "path": "back-to-the-finxture",
+      "version": 1,
+      "description": "Finx steps back in time, returning to the position and ammo he had x seconds ago.",
+      "descriptionHtml": "Finx steps back in time, returning to the position and ammo he had <span style=\"color:#00cc00;\">x</span> seconds ago.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000917.png",
+      "released": true
+    },
+    {
+      "id": 23000918,
+      "name": "NO-ESCAPE",
+      "path": "no-escape",
+      "version": 1,
+      "description": "Finx's next center projectile from his main attack freezes the enemy in time for x seconds, making them unable to take actions for the duration, but also making them immune to any damage.",
+      "descriptionHtml": "Finx's next center projectile from his main attack freezes the enemy in time for <span style=\"color:#00cc00;\">x</span> seconds, making them unable to take actions for the duration, but also making them immune to any damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000918.png",
+      "released": true
+    }
+  ]
+}

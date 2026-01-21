@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000883,
+      "name": "KICK-PUSH",
+      "path": "kick-push",
+      "version": 1,
+      "description": "While near walls Ollie kicks off his hoverboard and gains x% extra movement speed.",
+      "descriptionHtml": "While near walls Ollie kicks off his hoverboard and gains <span style=\"color:#00cc00;\">x%</span> extra movement speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000883.png",
+      "released": true
+    },
+    {
+      "id": 23000884,
+      "name": "RENEGADE",
+      "path": "renegade",
+      "version": 1,
+      "description": "After dashing forward with his Super, Ollie gains a x decaying shield over x seconds.",
+      "descriptionHtml": "After dashing forward with his Super, Ollie gains a <span style=\"color:#00cc00;\">x</span> decaying shield over <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000884.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000369,
+      "name": "POSITIVE-FEEDBACK",
+      "path": "positive-feedback",
+      "version": 1,
+      "description": "Belle gains a x% shield whenever her Electro-Bolts hit a target.",
+      "descriptionHtml": "Belle gains a <span style=\"color:#00cc00;\">x%</span> shield whenever her Electro-Bolts hit a target.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000369.png",
+      "released": true
+    },
+    {
+      "id": 23000370,
+      "name": "GROUNDED",
+      "path": "grounded",
+      "version": 1,
+      "description": "Getting marked by Belle's Super prevents the opponent from reloading their attack for x seconds.",
+      "descriptionHtml": "Getting marked by Belle's Super prevents the opponent from reloading their attack for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000370.png",
+      "released": true
+    }
+  ]
+}

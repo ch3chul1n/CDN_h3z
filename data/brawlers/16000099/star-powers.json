@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001060,
+      "name": "MISSION-SWIMPOSSIBLE",
+      "path": "mission-swimpossible",
+      "version": 1,
+      "description": "Pierce's last ammo also slows enemies by x%.",
+      "descriptionHtml": "Pierce's last ammo also slows enemies by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001060.png",
+      "released": true
+    },
+    {
+      "id": 23001061,
+      "name": "SLIP-N-SNIPE",
+      "path": "slip-n-snipe",
+      "version": 1,
+      "description": "When collecting a shell, Pierce gains a short burst (x%) of movement speed.",
+      "descriptionHtml": "When collecting a shell, Pierce gains a short burst (<span style=\"color:#00cc00;\">x%</span>) of movement speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001061.png",
+      "released": true
+    }
+  ]
+}

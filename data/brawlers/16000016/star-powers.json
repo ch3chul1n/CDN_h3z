@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000092,
+      "name": "MAMAS-HUG",
+      "path": "mamas-hug",
+      "version": 1,
+      "description": "Whenever Pam hits enemy Brawlers with Scrapstorm, she heals herself and nearby friendly Brawlers for x health.",
+      "descriptionHtml": "Whenever Pam hits enemy Brawlers with Scrapstorm, she heals herself and nearby friendly Brawlers for <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000092.png",
+      "released": true
+    },
+    {
+      "id": 23000139,
+      "name": "MAMAS-SQUEEZE",
+      "path": "mamas-squeeze",
+      "version": 1,
+      "description": "Healing turret now also damages enemies for x damage per second.",
+      "descriptionHtml": "Healing turret now also damages enemies for <span style=\"color:#00cc00;\">x</span> damage per second.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000139.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000089,
+      "name": "DA-CAPO",
+      "path": "da-capo",
+      "version": 1,
+      "description": "When Poco's attack hits friendly Brawlers they now heal for x health.",
+      "descriptionHtml": "When Poco's attack hits friendly Brawlers they now heal for <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000089.png",
+      "released": true
+    },
+    {
+      "id": 23000144,
+      "name": "SCREECHING-SOLO",
+      "path": "screeching-solo",
+      "version": 1,
+      "description": "Poco's Super now also hits enemies, dealing x damage.",
+      "descriptionHtml": "Poco's Super now also hits enemies, dealing <span style=\"color:#00cc00;\">x</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000144.png",
+      "released": true
+    }
+  ]
+}

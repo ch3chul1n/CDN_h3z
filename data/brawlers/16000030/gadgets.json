@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000274,
+      "name": "FRIENDZONER",
+      "path": "friendzoner",
+      "version": 1,
+      "description": "Emz fires off some hairspray that pushes enemies back. Deals <!card.accessory.skill.damage.scaleToLevel> damage.",
+      "descriptionHtml": "Emz fires off some hairspray that pushes enemies back. Deals <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000274.png",
+      "released": true
+    },
+    {
+      "id": 23000459,
+      "name": "ACID-SPRAY",
+      "path": "acid-spray",
+      "version": 1,
+      "description": "Emz squirts out hairspray that goes through walls! Deals <!card.accessory.skill.damage.scaleToLevel> damage.",
+      "descriptionHtml": "Emz squirts out hairspray that goes through walls! Deals <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000459.png",
+      "released": true
+    }
+  ]
+}

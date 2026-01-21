@@ -1,0 +1,27 @@
+{
+  "id": 16000013,
+  "avatarId": 28000013,
+  "name": "POCO",
+  "hash": "poco",
+  "path": "poco",
+  "fankit": "poco",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/poco",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000013.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000013.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000013.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 2,
+    "name": "Rare",
+    "color": "#68fd58"
+  },
+  "unlock": null,
+  "description": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
+  "descriptionHtml": "Poco believes music can change people's lives. He's so enthusiastic about it that he never stops playing, even after people ask him to!",
+  "videos": []
+}

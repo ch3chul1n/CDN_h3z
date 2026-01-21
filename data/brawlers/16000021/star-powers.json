@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000109,
+      "name": "MAGIC-PUFFS",
+      "path": "magic-puffs",
+      "version": 1,
+      "description": "Gene heals all friendly Brawlers around him for x health per second.",
+      "descriptionHtml": "Gene heals all friendly Brawlers around him for <span style=\"color:#00cc00;\">x</span> health per second.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000109.png",
+      "released": true
+    },
+    {
+      "id": 23000159,
+      "name": "SPIRIT-SLAP",
+      "path": "spirit-slap",
+      "version": 1,
+      "description": "Gene's Magic Hand also damages enemies, dealing x damage on hit.",
+      "descriptionHtml": "Gene's Magic Hand also damages enemies, dealing <span style=\"color:#00cc00;\">x</span> damage on hit.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000159.png",
+      "released": true
+    }
+  ]
+}

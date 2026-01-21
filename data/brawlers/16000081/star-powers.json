@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000752,
+      "name": "SPIKY",
+      "path": "spiky",
+      "version": 1,
+      "description": "After teleporting to an enemy, Lily's next attack deals x more damage",
+      "descriptionHtml": "After teleporting to an enemy, Lily's next attack deals <span style=\"color:#00cc00;\">x</span> more damage",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000752.png",
+      "released": true
+    },
+    {
+      "id": 23000753,
+      "name": "VIGILANCE",
+      "path": "vigilance",
+      "version": 1,
+      "description": "Gain x% movement speed while an enemy is in her Super charge radius",
+      "descriptionHtml": "Gain <span style=\"color:#00cc00;\">x%</span> movement speed while an enemy is in her Super charge radius",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000753.png",
+      "released": true
+    }
+  ]
+}

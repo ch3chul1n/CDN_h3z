@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000129,
+      "name": "POWER-THROW",
+      "path": "power-throw",
+      "version": 1,
+      "description": "Carl throws his Pickaxe with x% more speed, allowing it to travel and return faster.",
+      "descriptionHtml": "Carl throws his Pickaxe with <span style=\"color:#00cc00;\">x%</span> more speed, allowing it to travel and return faster.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000129.png",
+      "released": true
+    },
+    {
+      "id": 23000145,
+      "name": "PROTECTIVE-PIROUETTE",
+      "path": "protective-pirouette",
+      "version": 1,
+      "description": "During Carl's Super, all damage he receives is reduced by x%.",
+      "descriptionHtml": "During Carl's Super, all damage he receives is reduced by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000145.png",
+      "released": true
+    }
+  ]
+}

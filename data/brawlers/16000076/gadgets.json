@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000648,
+      "name": "CARDBOARD-BOX",
+      "path": "cardboard-box",
+      "version": 1,
+      "description": "Hide in a cardboard box becoming invisible for x seconds. Charges the Super x faster while stationary.",
+      "descriptionHtml": "Hide in a cardboard box becoming invisible for <span style=\"color:#00cc00;\">x</span> seconds. Charges the Super <span style=\"color:#00cc00;\">x</span> faster while stationary.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000648.png",
+      "released": true
+    },
+    {
+      "id": 23000649,
+      "name": "CHEESEBURGER",
+      "path": "cheeseburger",
+      "version": 1,
+      "description": "Heals himself and the friendly Brawler he is attached to for x.",
+      "descriptionHtml": "Heals himself and the friendly Brawler he is attached to for <span style=\"color:#00cc00;\">x</span>.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000649.png",
+      "released": true
+    }
+  ]
+}

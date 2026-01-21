@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000082,
+      "name": "MEDICAL-USE",
+      "path": "medical-use",
+      "version": 1,
+      "description": "Barley regains x health from each attack.",
+      "descriptionHtml": "Barley regains <span style=\"color:#00cc00;\">x</span> health from each attack.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000082.png",
+      "released": true
+    },
+    {
+      "id": 23000158,
+      "name": "EXTRA-NOXIOUS",
+      "path": "extra-noxious",
+      "version": 1,
+      "description": "Adds +x damage per second to Barley's attack.",
+      "descriptionHtml": "Adds <span style=\"color:#00cc00;\">+x</span> damage per second to Barley's attack.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000158.png",
+      "released": true
+    }
+  ]
+}

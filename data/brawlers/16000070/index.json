@@ -1,0 +1,27 @@
+{
+  "id": 16000070,
+  "avatarId": 28000288,
+  "name": "CORDELIUS",
+  "hash": "cordelius",
+  "path": "cordelius",
+  "fankit": "cordelius",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/cordelius",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000070.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000070.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000070.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
+  "descriptionHtml": "Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000261,
+      "name": "ACTIVE-NOISE-CANCELING",
+      "path": "active-noise-canceling",
+      "version": 1,
+      "description": "Fires a soundwave in a target direction, dealing <!card.accessory.skill.damage.scaleToLevel> damage to Brawlers. Frank becomes immune to Crowd Control for <!card.accessory.skill.activationSelfStatusEffect.duration.ticksAsSeconds> secs.",
+      "descriptionHtml": "Fires a soundwave in a target direction, dealing <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage to Brawlers. Frank becomes immune to Crowd Control for <span style=\"color:#00cc00;\"><!card.accessory.skill.activationSelfStatusEffect.duration.ticksAsSeconds></span> secs.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000261.png",
+      "released": true
+    },
+    {
+      "id": 23000351,
+      "name": "IRRESISTIBLE-ATTRACTION",
+      "path": "irresistible-attraction",
+      "version": 1,
+      "description": "Frank aims a long-range attack that pulls enemies towards him. Consumes ammo. Does <!card.accessory.skill.damage.scaleToLevel> damage.",
+      "descriptionHtml": "Frank aims a long-range attack that pulls enemies towards him. Consumes ammo. Does <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000351.png",
+      "released": true
+    }
+  ]
+}

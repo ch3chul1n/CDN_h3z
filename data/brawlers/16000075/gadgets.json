@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000639,
+      "name": "CLIPPING-SCREAM",
+      "path": "clipping-scream",
+      "version": 1,
+      "description": "Mico lets out a deafening scream towards the nearest enemy, dealing x damage and slowing down enemies for x seconds on hit.",
+      "descriptionHtml": "Mico lets out a deafening scream towards the nearest enemy, dealing <span style=\"color:#00cc00;\">x</span> damage and slowing down enemies for <span style=\"color:#00cc00;\">x</span> seconds on hit.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000639.png",
+      "released": true
+    },
+    {
+      "id": 23000640,
+      "name": "PRESTO",
+      "path": "presto",
+      "version": 1,
+      "description": "Mico's next jump has x% longer range.",
+      "descriptionHtml": "Mico's next jump has <span style=\"color:#00cc00;\">x%</span> longer range.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000640.png",
+      "released": true
+    }
+  ]
+}

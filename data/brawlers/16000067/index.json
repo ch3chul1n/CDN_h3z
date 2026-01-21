@@ -1,0 +1,27 @@
+{
+  "id": 16000067,
+  "avatarId": 28000246,
+  "name": "WILLOW",
+  "hash": "willow",
+  "path": "willow",
+  "fankit": "willow",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/willow",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000067.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000067.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000067.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Willow works as a gondoliera in the Swamp of Love. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
+  "descriptionHtml": "Willow works as a gondoliera in the Swamp of Love. She gives couples in search of a romantic evening the creepiest, most unsettling time they could imagine.",
+  "videos": []
+}

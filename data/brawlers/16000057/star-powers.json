@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000470,
+      "name": "STAGE-VIEW",
+      "path": "stage-view",
+      "version": 1,
+      "description": "While in the air with her jetpack, Janet reveals a large area of bushes around herself.",
+      "descriptionHtml": "While in the air with her jetpack, Janet reveals a large area of bushes around herself.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000470.png",
+      "released": true
+    },
+    {
+      "id": 23000471,
+      "name": "VOCAL-WARM-UP",
+      "path": "vocal-warm-up",
+      "version": 1,
+      "description": "Janet's attack focuses x% faster.",
+      "descriptionHtml": "Janet's attack focuses <span style=\"color:#00cc00;\">x%</span> faster.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000471.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000414,
+      "name": "FIRST-BASH",
+      "path": "first-bash",
+      "version": 1,
+      "description": "When hitting an opponent with his attack charges full, Ash gets even more angry. His Rage goes up by x%.",
+      "descriptionHtml": "When hitting an opponent with his attack charges full, Ash gets even more angry. His Rage goes up by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000414.png",
+      "released": true
+    },
+    {
+      "id": 23000415,
+      "name": "MAD-AS-HECK",
+      "path": "mad-as-heck",
+      "version": 1,
+      "description": "Ash progressively gains up to x% faster reload speed, equal to how enraged he's become.",
+      "descriptionHtml": "Ash progressively gains up to <span style=\"color:#00cc00;\">x%</span> faster reload speed, equal to how enraged he's become.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000415.png",
+      "released": true
+    }
+  ]
+}

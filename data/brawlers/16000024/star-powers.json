@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000124,
+      "name": "PLANT-LIFE",
+      "path": "plant-life",
+      "version": 1,
+      "description": "Rosa recovers x health per second when inside a bush.",
+      "descriptionHtml": "Rosa recovers <span style=\"color:#00cc00;\">x</span> health per second when inside a bush.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000124.png",
+      "released": true
+    },
+    {
+      "id": 23000147,
+      "name": "THORNY-GLOVES",
+      "path": "thorny-gloves",
+      "version": 1,
+      "description": "Rosa's punches gain +x damage during her Super.",
+      "descriptionHtml": "Rosa's punches gain <span style=\"color:#00cc00;\">+x</span> damage during her Super.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000147.png",
+      "released": true
+    }
+  ]
+}

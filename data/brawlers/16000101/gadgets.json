@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001183,
+      "name": "SLIPPERY-SAVIOR",
+      "path": "slippery-savior",
+      "version": 1,
+      "description": "Glowbert dashes in a target direction, healing himself and teammates for <!card.accessory.skill.areaEffectObject2.statusEffect.healingTotal.scaleToLevel> on arrival.",
+      "descriptionHtml": "Glowbert dashes in a target direction, healing himself and teammates for <span style=\"color:#00cc00;\"><!card.accessory.skill.areaEffectObject2.statusEffect.healingTotal.scaleToLevel></span> on arrival.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001183.png",
+      "released": true
+    },
+    {
+      "id": 23001184,
+      "name": "MORE-LUMENS",
+      "path": "more-lumens",
+      "version": 1,
+      "description": "Glowbert supercharges his glowbeam tethers, doubling the damage/healing rate for x secs.",
+      "descriptionHtml": "Glowbert supercharges his glowbeam tethers, doubling the damage/healing rate for <span style=\"color:#00cc00;\">x</span> secs.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001184.png",
+      "released": true
+    }
+  ]
+}

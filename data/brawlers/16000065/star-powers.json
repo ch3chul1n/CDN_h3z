@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000543,
+      "name": "IN-MY-SIGHTS",
+      "path": "in-my-sights",
+      "version": 1,
+      "description": "Mandy shoots her candies with x% more speed while Focused.",
+      "descriptionHtml": "Mandy shoots her candies with <span style=\"color:#00cc00;\">x%</span> more speed while Focused.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000543.png",
+      "released": true
+    },
+    {
+      "id": 23000544,
+      "name": "HARD-CANDY",
+      "path": "hard-candy",
+      "version": 1,
+      "description": "Mandy receives x% shield while Focused.",
+      "descriptionHtml": "Mandy receives <span style=\"color:#00cc00;\">x%</span> shield while Focused.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000544.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16000042,
+  "avatarId": 28000057,
+  "name": "BYRON",
+  "hash": "byron",
+  "path": "byron",
+  "fankit": "byron",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/byron",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000042.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000042.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000042.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Byron has invented many concoctions and tinctures that heal or harm in various ways.... but most of them fall into the harming category",
+  "descriptionHtml": "Byron has invented many concoctions and tinctures that heal or harm in various ways.... but most of them fall into the harming category",
+  "videos": []
+}

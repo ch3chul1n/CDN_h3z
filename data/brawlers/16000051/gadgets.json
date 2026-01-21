@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000416,
+      "name": "CHILL-PILL",
+      "path": "chill-pill",
+      "version": 1,
+      "description": "Though furious, Ash has to collect himself. A full Rage meter will recover x health when this gadget is popped - less Rage, less recovery.",
+      "descriptionHtml": "Though furious, Ash has to collect himself. A full Rage meter will recover <span style=\"color:#00cc00;\">x</span> health when this gadget is popped - less Rage, less recovery.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000416.png",
+      "released": true
+    },
+    {
+      "id": 23000465,
+      "name": "ROTTEN-BANANA",
+      "path": "rotten-banana",
+      "version": 1,
+      "description": "Ash loses <ccc0000>x% health and instantly gains x% rage.",
+      "descriptionHtml": "Ash loses <ccc0000>x%</span> health and instantly gains <span style=\"color:#00cc00;\">x%</span> rage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000465.png",
+      "released": true
+    }
+  ]
+}

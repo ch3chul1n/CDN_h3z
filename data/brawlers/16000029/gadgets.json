@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000271,
+      "name": "HONEY-MOLASSES",
+      "path": "honey-molasses",
+      "version": 1,
+      "description": "Bea drops a beehive with a splash of sticky honey around it. The honey slows down enemies that step in it.",
+      "descriptionHtml": "Bea drops a beehive with a splash of sticky honey around it. The honey slows down enemies that step in it.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000271.png",
+      "released": true
+    },
+    {
+      "id": 23000312,
+      "name": "RATTLED-HIVE",
+      "path": "rattled-hive",
+      "version": 1,
+      "description": "Bea unleashes x angry bees that circle away from her, dealing more damage the further they go (up to x damage).",
+      "descriptionHtml": "Bea unleashes <span style=\"color:#00cc00;\">x</span> angry bees that circle away from her, dealing more damage the further they go (up to <span style=\"color:#00cc00;\">x</span> damage).",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000312.png",
+      "released": true
+    }
+  ]
+}

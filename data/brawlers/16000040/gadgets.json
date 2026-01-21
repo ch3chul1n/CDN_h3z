@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000309,
+      "name": "FIRE-STARTERS",
+      "path": "fire-starters",
+      "version": 1,
+      "description": "Amber runs fast for x seconds while spilling her fire fluid, which she can then ignite.",
+      "descriptionHtml": "Amber runs fast for <span style=\"color:#00cc00;\">x</span> seconds while spilling her fire fluid, which she can then ignite.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000309.png",
+      "released": true
+    },
+    {
+      "id": 23000488,
+      "name": "DANCING-FLAMES",
+      "path": "dancing-flames",
+      "version": 1,
+      "description": "Amber creates x orbiting flames around her for x seconds, dealing x damage on hit.",
+      "descriptionHtml": "Amber creates <span style=\"color:#00cc00;\">x</span> orbiting flames around her for <span style=\"color:#00cc00;\">x</span> seconds, dealing <span style=\"color:#00cc00;\">x</span> damage on hit.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000488.png",
+      "released": true
+    }
+  ]
+}

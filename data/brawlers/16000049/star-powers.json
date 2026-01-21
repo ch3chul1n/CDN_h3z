@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000390,
+      "name": "TOUGHER-TORPEDO",
+      "path": "tougher-torpedo",
+      "version": 1,
+      "description": "The minimum duration of Buzz's Super stun is increased by x seconds.",
+      "descriptionHtml": "The minimum duration of Buzz's Super stun is increased by <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000390.png",
+      "released": true
+    },
+    {
+      "id": 23000391,
+      "name": "EYES-SHARP",
+      "path": "eyes-sharp",
+      "version": 1,
+      "description": "Buzz's Super charging area is increased by x%.",
+      "descriptionHtml": "Buzz's Super charging area is increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000391.png",
+      "released": true
+    }
+  ]
+}

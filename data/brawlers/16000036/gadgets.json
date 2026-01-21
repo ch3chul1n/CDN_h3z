@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000278,
+      "name": "WARPIN-TIME",
+      "path": "warpin-time",
+      "version": 1,
+      "description": "Nani teleports to Peep's last known location and ends her Super.",
+      "descriptionHtml": "Nani teleports to Peep's last known location and ends her Super.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000278.png",
+      "released": true
+    },
+    {
+      "id": 23000353,
+      "name": "RETURN-TO-SENDER",
+      "path": "return-to-sender",
+      "version": 1,
+      "description": "For the next x seconds, the first time Nani takes damage from an enemy, x% of the damage is returned to the enemy.",
+      "descriptionHtml": "For the next <span style=\"color:#00cc00;\">x</span> seconds, the first time Nani takes damage from an enemy, <span style=\"color:#00cc00;\">x%</span> of the damage is returned to the enemy.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000353.png",
+      "released": true
+    }
+  ]
+}

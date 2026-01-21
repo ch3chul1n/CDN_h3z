@@ -1,0 +1,27 @@
+{
+  "id": 16000007,
+  "avatarId": 28000006,
+  "name": "JESSIE",
+  "hash": "jessie",
+  "path": "jessie",
+  "fankit": "jessie",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/jessie",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000007.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000007.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000007.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
+  "descriptionHtml": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
+  "videos": []
+}

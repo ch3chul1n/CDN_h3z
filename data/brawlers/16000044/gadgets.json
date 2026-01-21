@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000347,
+      "name": "TAKE-COVER",
+      "path": "take-cover",
+      "version": 1,
+      "description": "Ruffs throws down x sandbags as cover. Each one has x% of Ruffs' max health.",
+      "descriptionHtml": "Ruffs throws down <span style=\"color:#00cc00;\">x</span> sandbags as cover. Each one has <span style=\"color:#00cc00;\">x%</span> of Ruffs' max health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000347.png",
+      "released": true
+    },
+    {
+      "id": 23000402,
+      "name": "AIR-SUPPORT",
+      "path": "air-support",
+      "version": 1,
+      "description": "Ruffs calls a barrage around the nearest opponent, dealing x damage with each hit.",
+      "descriptionHtml": "Ruffs calls a barrage around the nearest opponent, dealing <span style=\"color:#00cc00;\">x</span> damage with each hit.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000402.png",
+      "released": true
+    }
+  ]
+}

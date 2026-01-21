@@ -1,0 +1,27 @@
+{
+  "id": 16000047,
+  "avatarId": 28000066,
+  "name": "SQUEAK",
+  "hash": "squeak",
+  "path": "squeak",
+  "fankit": "squeak",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/squeak",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000047.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000047.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000047.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber",
+  "descriptionHtml": "Squeak is a blob of happy energy who loves his creator, Ruffs. He's a joy to be around, at least if you are unaware that he's made of dog slobber",
+  "videos": []
+}

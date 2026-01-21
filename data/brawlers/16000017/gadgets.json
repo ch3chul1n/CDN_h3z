@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000266,
+      "name": "PSYCHIC-ENHANCER",
+      "path": "psychic-enhancer",
+      "version": 1,
+      "description": "Tara and her allies are able to see all enemies, even inside bushes, for x seconds.",
+      "descriptionHtml": "Tara and her allies are able to see all enemies, even inside bushes, for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000266.png",
+      "released": true
+    },
+    {
+      "id": 23000356,
+      "name": "SUPPORT-FROM-BEYOND",
+      "path": "support-from-beyond",
+      "version": 1,
+      "description": "Tara surrounds herself with three weak shadows that attack opponents and disappear after x seconds.",
+      "descriptionHtml": "Tara surrounds herself with three weak shadows that attack opponents and disappear after <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000356.png",
+      "released": true
+    }
+  ]
+}

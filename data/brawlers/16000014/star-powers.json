@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000090,
+      "name": "CIRCLING-EAGLE",
+      "path": "circling-eagle",
+      "version": 1,
+      "description": "Bo spots enemies hidden in bushes from x% longer distance than normally.",
+      "descriptionHtml": "Bo spots enemies hidden in bushes from <span style=\"color:#00cc00;\">x%</span> longer distance than normally.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000090.png",
+      "released": true
+    },
+    {
+      "id": 23000148,
+      "name": "SNARE-A-BEAR",
+      "path": "snare-a-bear",
+      "version": 1,
+      "description": "Instead of a knockback, Bo's traps now stun the enemy for x seconds!",
+      "descriptionHtml": "Instead of a knockback, Bo's traps now stun the enemy for <span style=\"color:#00cc00;\">x</span> seconds!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000148.png",
+      "released": true
+    }
+  ]
+}

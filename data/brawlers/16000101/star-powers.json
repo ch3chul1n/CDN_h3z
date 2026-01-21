@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001181,
+      "name": "BIOTIC-ECOSYSTEM",
+      "path": "biotic-ecosystem",
+      "version": 1,
+      "description": "If Glowbert is tethered to an enemy and a teammate at the same time, it will reduce the enemy damage by x% and increase the teammate's damage by x%.",
+      "descriptionHtml": "If Glowbert is tethered to an enemy and a teammate at the same time, it will reduce the enemy damage by <span style=\"color:#00cc00;\">x%</span> and increase the teammate's damage by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001181.png",
+      "released": true
+    },
+    {
+      "id": 23001182,
+      "name": "PARASITISM",
+      "path": "parasitism",
+      "version": 1,
+      "description": "Tethering to an enemy also heals Glowbert for x% of the damage dealt.",
+      "descriptionHtml": "Tethering to an enemy also heals Glowbert for <span style=\"color:#00cc00;\">x%</span> of the damage dealt.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001182.png",
+      "released": true
+    }
+  ]
+}

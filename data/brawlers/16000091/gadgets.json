@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000907,
+      "name": "HIT-THE-LIGHTS",
+      "path": "hit-the-lights",
+      "version": 1,
+      "description": "Lumi ignites her morning stars on the ground, producing flames which damage nearby enemies for x seconds. Damage per second: x",
+      "descriptionHtml": "Lumi ignites her morning stars on the ground, producing flames which damage nearby enemies for <span style=\"color:#00cc00;\">x</span> seconds. Damage per second: <span style=\"color:#00cc00;\">x</span>",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000907.png",
+      "released": true
+    },
+    {
+      "id": 23000908,
+      "name": "GRIM-AND-FROSTBITTEN",
+      "path": "grim-and-frostbitten",
+      "version": 1,
+      "description": "Lumi creates freezing winds around her morning stars on the ground, creating a slippery surface for x secs.",
+      "descriptionHtml": "Lumi creates freezing winds around her morning stars on the ground, creating a slippery surface for <span style=\"color:#00cc00;\">x</span> secs.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000908.png",
+      "released": true
+    }
+  ]
+}

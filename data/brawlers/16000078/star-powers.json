@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000667,
+      "name": "FAST-BEATS",
+      "path": "fast-beats",
+      "version": 1,
+      "description": "Melodie gains x% increased movement speed from each note orbiting her.",
+      "descriptionHtml": "Melodie gains <span style=\"color:#00cc00;\">x%</span> increased movement speed from each note orbiting her.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000667.png",
+      "released": true
+    },
+    {
+      "id": 23000668,
+      "name": "EXTENDED-MIX",
+      "path": "extended-mix",
+      "version": 1,
+      "description": "Melodie's notes last for x% longer before vanishing.",
+      "descriptionHtml": "Melodie's notes last for <span style=\"color:#00cc00;\">x%</span> longer before vanishing.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000668.png",
+      "released": true
+    }
+  ]
+}

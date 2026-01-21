@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000577,
+      "name": "ITS-GONNA-BLOW",
+      "path": "its-gonna-blow",
+      "version": 1,
+      "description": "When Balloon Blast is charged over x%, Hank gains x% extra movement speed.",
+      "descriptionHtml": "When Balloon Blast is charged over <span style=\"color:#00cc00;\">x%</span>, Hank gains <span style=\"color:#00cc00;\">x%</span> extra movement speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000577.png",
+      "released": true
+    },
+    {
+      "id": 23000578,
+      "name": "TAKE-COVER",
+      "path": "take-cover",
+      "version": 1,
+      "description": "Hank takes x% less damage when near a wall.",
+      "descriptionHtml": "Hank takes <span style=\"color:#00cc00;\">x%</span> less damage when near a wall.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000578.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16000045,
+  "avatarId": 28000062,
+  "name": "STU",
+  "hash": "stu",
+  "path": "stu",
+  "fankit": "stu",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/stu",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000045.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000045.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000045.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
+  "descriptionHtml": "A little punch-drunk from too many bumps, bruises, and gasoline fumes over his long stunt performing career, Stu is a bit wobbly on his wheel these days.",
+  "videos": []
+}

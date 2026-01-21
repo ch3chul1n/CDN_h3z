@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000114,
+      "name": "WELL-OILED",
+      "path": "well-oiled",
+      "version": 1,
+      "description": "When Tick takes no damage and doesn't attack, he starts recovering health x seconds sooner than normal.",
+      "descriptionHtml": "When Tick takes no damage and doesn't attack, he starts recovering health <span style=\"color:#00cc00;\">x</span> seconds sooner than normal.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000114.png",
+      "released": true
+    },
+    {
+      "id": 23000161,
+      "name": "AUTOMA-TICK-RELOAD",
+      "path": "automa-tick-reload",
+      "version": 1,
+      "description": "Tick's reload time is x% shorter.",
+      "descriptionHtml": "Tick's reload time is <span style=\"color:#00cc00;\">x%</span> shorter.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000161.png",
+      "released": true
+    }
+  ]
+}

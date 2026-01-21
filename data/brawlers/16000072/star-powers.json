@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000601,
+      "name": "HEAT-RETENTION",
+      "path": "heat-retention",
+      "version": 1,
+      "description": "Super will consume x% less Heat when used.",
+      "descriptionHtml": "Super will consume <span style=\"color:#00cc00;\">x%</span> less Heat when used.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000601.png",
+      "released": true
+    },
+    {
+      "id": 23000602,
+      "name": "HEAT-SHIELD",
+      "path": "heat-shield",
+      "version": 1,
+      "description": "While the Heat is over x%, reduce damage taken by x%.",
+      "descriptionHtml": "While the Heat is over <span style=\"color:#00cc00;\">x%</span>, reduce damage taken by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000602.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000258,
+      "name": "FIDGET-SPINNER",
+      "path": "fidget-spinner",
+      "version": 1,
+      "description": "Dynamike spins furiously with increased movement speed and throws multiple sticks of dynamite around himself. Each dynamite deals x damage to enemies.",
+      "descriptionHtml": "Dynamike spins furiously with increased movement speed and throws multiple sticks of dynamite around himself. Each dynamite deals <span style=\"color:#00cc00;\">x</span> damage to enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000258.png",
+      "released": true
+    },
+    {
+      "id": 23000294,
+      "name": "SATCHEL-CHARGE",
+      "path": "satchel-charge",
+      "version": 1,
+      "description": "Once activated, the next main attack also stuns enemies for x seconds.",
+      "descriptionHtml": "Once activated, the next main attack also stuns enemies for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000294.png",
+      "released": true
+    }
+  ]
+}

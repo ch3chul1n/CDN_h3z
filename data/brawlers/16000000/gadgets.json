@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000255,
+      "name": "FAST-FORWARD",
+      "path": "fast-forward",
+      "version": 1,
+      "description": "Shelly dashes to an aimed direction or forwards, fully reloading her ammo!",
+      "descriptionHtml": "Shelly dashes to an aimed direction or forwards, fully reloading her ammo!",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000255.png",
+      "released": true
+    },
+    {
+      "id": 23000288,
+      "name": "CLAY-PIGEONS",
+      "path": "clay-pigeons",
+      "version": 1,
+      "description": "Shelly focuses her fire to a smaller area with an increased range. Can be used <!card.accessory.skill.maxAmmo> times per activation.",
+      "descriptionHtml": "Shelly focuses her fire to a smaller area with an increased range. Can be used <!card.accessory.skill.maxAmmo> times per activation.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000288.png",
+      "released": true
+    }
+  ]
+}

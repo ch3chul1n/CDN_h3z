@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000555,
+      "name": "OUT-OF-LINE",
+      "path": "out-of-line",
+      "version": 1,
+      "description": "Instantly charges R-T's Super.",
+      "descriptionHtml": "Instantly charges R-T's Super.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000555.png",
+      "released": true
+    },
+    {
+      "id": 23000556,
+      "name": "HACKS",
+      "path": "hacks",
+      "version": 1,
+      "description": "Instantly trigger all active marks on all enemy brawlers, dealing their damage.",
+      "descriptionHtml": "Instantly trigger all active marks on all enemy brawlers, dealing their damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000556.png",
+      "released": true
+    }
+  ]
+}

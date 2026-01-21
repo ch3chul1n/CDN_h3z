@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000431,
+      "name": "IMPROVISE",
+      "path": "improvise",
+      "version": 1,
+      "description": "When down to her last round, Lola deals an extra x% damage.",
+      "descriptionHtml": "When down to her last round, Lola deals an extra <span style=\"color:#00cc00;\">x%</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000431.png",
+      "released": true
+    },
+    {
+      "id": 23000432,
+      "name": "SEALED-WITH-A-KISS",
+      "path": "sealed-with-a-kiss",
+      "version": 1,
+      "description": "Projectiles from Lola's Ego will heal allies that are caught in its path by x health.",
+      "descriptionHtml": "Projectiles from Lola's Ego will heal allies that are caught in its path by <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000432.png",
+      "released": true
+    }
+  ]
+}

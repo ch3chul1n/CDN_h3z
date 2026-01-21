@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000991,
+      "name": "FEED-THE-GATORS",
+      "path": "feed-the-gators",
+      "version": 1,
+      "description": "The next main attack heals Alli for x% of damage dealt.",
+      "descriptionHtml": "The next main attack heals Alli for <span style=\"color:#00cc00;\">x%</span> of damage dealt.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000991.png",
+      "released": true
+    },
+    {
+      "id": 23000992,
+      "name": "COLD-BLOODED",
+      "path": "cold-blooded",
+      "version": 1,
+      "description": "Alli becomes enraged for the next x secs. Can only be activated when an enemy is visible.",
+      "descriptionHtml": "Alli becomes enraged for the next <span style=\"color:#00cc00;\">x</span> secs. Can only be activated when an enemy is visible.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000992.png",
+      "released": true
+    }
+  ]
+}

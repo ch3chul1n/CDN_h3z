@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000265,
+      "name": "COMBO-SPINNER",
+      "path": "combo-spinner",
+      "version": 1,
+      "description": "Mortis spins his shovel dealing <!card.accessory.skill.damage.scaleToLevel> damage. Can also be aimed for a short-distance bat attack.",
+      "descriptionHtml": "Mortis spins his shovel dealing <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage. Can also be aimed for a short-distance bat attack.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000265.png",
+      "released": true
+    },
+    {
+      "id": 23000290,
+      "name": "CREATURE-OF-THE-NIGHT",
+      "path": "creature-of-the-night",
+      "version": 1,
+      "description": "Mortis turns into a flock of bats and travels to a target location.",
+      "descriptionHtml": "Mortis turns into a flock of bats and travels to a target location.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000290.png",
+      "released": true
+    }
+  ]
+}

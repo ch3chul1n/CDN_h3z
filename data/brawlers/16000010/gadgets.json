@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000264,
+      "name": "SUPLEX-SUPPLEMENT",
+      "path": "suplex-supplement",
+      "version": 1,
+      "description": "El Primo grabs the closest enemy within his reach and flips them like a pancake over his broad shoulders.",
+      "descriptionHtml": "El Primo grabs the closest enemy within his reach and flips them like a pancake over his broad shoulders.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000264.png",
+      "released": true
+    },
+    {
+      "id": 23000292,
+      "name": "ASTEROID-BELT",
+      "path": "asteroid-belt",
+      "version": 1,
+      "description": "El Primo summons a small meteor to strike the nearest enemy. It deals x damage and destroys walls.",
+      "descriptionHtml": "El Primo summons a small meteor to strike the nearest enemy. It deals <span style=\"color:#00cc00;\">x</span> damage and destroys walls.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000292.png",
+      "released": true
+    }
+  ]
+}

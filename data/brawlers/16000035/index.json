@@ -1,0 +1,27 @@
+{
+  "id": 16000035,
+  "avatarId": 28000051,
+  "name": "GALE",
+  "hash": "gale",
+  "path": "gale",
+  "fankit": "gale",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/gale",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000035.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000035.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000035.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
+  "descriptionHtml": "Gale's job is to use his snowblower to clear the areas around Mr. P's Snowtel. Nobody mentioned anything about stopping when the guests were around...",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000593,
+      "name": "FAST-FOOD",
+      "path": "fast-food",
+      "version": 1,
+      "description": "When Doug revives an ally successfully, he will heal for x% of his max health.",
+      "descriptionHtml": "When Doug revives an ally successfully, he will heal for <span style=\"color:#00cc00;\">x%</span> of his max health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000593.png",
+      "released": true
+    },
+    {
+      "id": 23000594,
+      "name": "SELF-SERVICE",
+      "path": "self-service",
+      "version": 1,
+      "description": "Snack Attack also heals Doug by x.",
+      "descriptionHtml": "Snack Attack also heals Doug by <span style=\"color:#00cc00;\">x</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000594.png",
+      "released": true
+    }
+  ]
+}

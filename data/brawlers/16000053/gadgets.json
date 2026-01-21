@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000433,
+      "name": "FREEZE-FRAME",
+      "path": "freeze-frame",
+      "version": 1,
+      "description": "Lola's Ego stops moving to strike a pose! Gaining a x% shield for x seconds.",
+      "descriptionHtml": "Lola's Ego stops moving to strike a pose! Gaining a <span style=\"color:#00cc00;\">x%</span> shield for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000433.png",
+      "released": true
+    },
+    {
+      "id": 23000456,
+      "name": "STUNT-DOUBLE",
+      "path": "stunt-double",
+      "version": 1,
+      "description": "Lola and her Ego switch locations, both recovering x health.",
+      "descriptionHtml": "Lola and her Ego switch locations, both recovering <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000456.png",
+      "released": true
+    }
+  ]
+}

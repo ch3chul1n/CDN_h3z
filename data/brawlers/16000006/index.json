@@ -1,0 +1,27 @@
+{
+  "id": 16000006,
+  "avatarId": 28000012,
+  "name": "BARLEY",
+  "hash": "barley",
+  "path": "barley",
+  "fankit": "barley",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/barley",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000006.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000006.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000006.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 2,
+    "name": "Rare",
+    "color": "#68fd58"
+  },
+  "unlock": null,
+  "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
+  "descriptionHtml": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
+  "videos": []
+}

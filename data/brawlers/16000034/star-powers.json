@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000222,
+      "name": "COUNTER-CRUSH",
+      "path": "counter-crush",
+      "version": 1,
+      "description": "When receiving damage, Jacky returns the favor by converting x% of the damage into a Groundbreaker counterattack.",
+      "descriptionHtml": "When receiving damage, Jacky returns the favor by converting <span style=\"color:#00cc00;\">x%</span> of the damage into a Groundbreaker counterattack.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000222.png",
+      "released": true
+    },
+    {
+      "id": 23000223,
+      "name": "HARDY-HARD-HAT",
+      "path": "hardy-hard-hat",
+      "version": 1,
+      "description": "Jacky's Hard Hat protects her by reducing any damage she takes by x%.",
+      "descriptionHtml": "Jacky's Hard Hat protects her by reducing any damage she takes by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000223.png",
+      "released": true
+    }
+  ]
+}

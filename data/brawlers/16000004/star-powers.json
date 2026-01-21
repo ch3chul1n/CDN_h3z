@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000080,
+      "name": "SUPER-BOUNCY",
+      "path": "super-bouncy",
+      "version": 1,
+      "description": "Rico's bullets, from attack and Super alike, get Supercharged by their first bounce and deal +x damage!",
+      "descriptionHtml": "Rico's bullets, from attack and Super alike, get Supercharged by their first bounce and deal <span style=\"color:#00cc00;\">+x</span> damage!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000080.png",
+      "released": true
+    },
+    {
+      "id": 23000156,
+      "name": "ROBO-RETREAT",
+      "path": "robo-retreat",
+      "version": 1,
+      "description": "When Rico falls below x% health, he runs x% faster!",
+      "descriptionHtml": "When Rico falls below <span style=\"color:#00cc00;\">x%</span> health, he runs <span style=\"color:#00cc00;\">x%</span> faster!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000156.png",
+      "released": true
+    }
+  ]
+}

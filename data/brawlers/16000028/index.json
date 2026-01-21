@@ -1,0 +1,27 @@
+{
+  "id": 16000028,
+  "avatarId": 28000044,
+  "name": "SANDY",
+  "hash": "sandy",
+  "path": "sandy",
+  "fankit": "sandy",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/sandy",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000028.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000028.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000028.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
+  "descriptionHtml": "On the rare occasions Sandy wakes from his slumber, he tries to help his big sister Tara around their store. But it's never long before he falls asleep again.",
+  "videos": []
+}

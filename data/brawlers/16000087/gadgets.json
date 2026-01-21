@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000850,
+      "name": "VOODOO-CHILE",
+      "path": "voodoo-chile",
+      "version": 1,
+      "description": "Juju's next main attack has the power of all three elements.",
+      "descriptionHtml": "Juju's next main attack has the power of all three elements.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000850.png",
+      "released": true
+    },
+    {
+      "id": 23000851,
+      "name": "ELEMENTALIST",
+      "path": "elementalist",
+      "version": 1,
+      "description": "Juju gains a temporary buff based on the current environment she is standing on. Earth: Damage reduction Grass: Invisibility Water: Increased movement speed",
+      "descriptionHtml": "Juju gains a temporary buff based on the current environment she is standing on.<br>Earth: Damage reduction<br>Grass: Invisibility<br>Water: Increased movement speed",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000851.png",
+      "released": true
+    }
+  ]
+}

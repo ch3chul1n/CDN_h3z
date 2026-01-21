@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000324,
+      "name": "SUPERCOOL",
+      "path": "supercool",
+      "version": 1,
+      "description": "Opponents standing on Lou's Super area get frozen x% faster.",
+      "descriptionHtml": "Opponents standing on Lou's Super area get frozen <span style=\"color:#00cc00;\">x%</span> faster.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000324.png",
+      "released": true
+    },
+    {
+      "id": 23000325,
+      "name": "HYPOTHERMIA",
+      "path": "hypothermia",
+      "version": 1,
+      "description": "Opponents lose up to x% of their damage based on how frozen they are from Lou's attacks.",
+      "descriptionHtml": "Opponents lose up to <span style=\"color:#00cc00;\">x%</span> of their damage based on how frozen they are from Lou's attacks.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000325.png",
+      "released": true
+    }
+  ]
+}

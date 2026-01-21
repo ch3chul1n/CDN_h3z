@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000242,
+      "name": "GROW-LIGHT",
+      "path": "grow-light",
+      "version": 1,
+      "description": "Rosa fertilizes the ground around her and bushes instantly grow to provide great cover.",
+      "descriptionHtml": "Rosa fertilizes the ground around her and bushes instantly grow to provide great cover.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000242.png",
+      "released": true
+    },
+    {
+      "id": 23000348,
+      "name": "UNFRIENDLY-BUSHES",
+      "path": "unfriendly-bushes",
+      "version": 1,
+      "description": "All opponents hiding in bushes take x damage and get slowed down for x seconds.",
+      "descriptionHtml": "All opponents hiding in bushes take <span style=\"color:#00cc00;\">x</span> damage and get slowed down for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000348.png",
+      "released": true
+    }
+  ]
+}

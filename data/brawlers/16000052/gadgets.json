@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000423,
+      "name": "JOLTING-VOLTS",
+      "path": "jolting-volts",
+      "version": 1,
+      "description": "Heal the Mecha by x health per second for x seconds.",
+      "descriptionHtml": "Heal the Mecha by <span style=\"color:#00cc00;\">x</span> health per second for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000423.png",
+      "released": true
+    },
+    {
+      "id": 23000489,
+      "name": "TOOLBOX",
+      "path": "toolbox",
+      "version": 1,
+      "description": "Meg drops her toolbox, which increases the reload speed for nearby allies by x% until it gets destroyed.",
+      "descriptionHtml": "Meg drops her toolbox, which increases the reload speed for nearby allies by <span style=\"color:#00cc00;\">x%</span> until it gets destroyed.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000489.png",
+      "released": true
+    }
+  ]
+}

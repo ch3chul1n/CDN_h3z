@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000527,
+      "name": "SINGLE-BELLOMANIA",
+      "path": "single-bellomania",
+      "version": 1,
+      "description": "The first bell of Chester's attack sequence does x% damage.",
+      "descriptionHtml": "The first bell of Chester's attack sequence does <span style=\"color:#00cc00;\">x%</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000527.png",
+      "released": true
+    },
+    {
+      "id": 23000528,
+      "name": "SNEAK-PEEK",
+      "path": "sneak-peek",
+      "version": 1,
+      "description": "Chester will always know what his next Super will be.",
+      "descriptionHtml": "Chester will always know what his next Super will be.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000528.png",
+      "released": true
+    }
+  ]
+}

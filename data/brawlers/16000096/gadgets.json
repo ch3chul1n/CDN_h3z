@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001000,
+      "name": "FOR-THE-QUEEN",
+      "path": "for-the-queen",
+      "version": 1,
+      "description": "Trunk instantly spreads ants in a large area.",
+      "descriptionHtml": "Trunk instantly spreads ants in a large area.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001000.png",
+      "released": true
+    },
+    {
+      "id": 23001001,
+      "name": "WORKER-ANTS",
+      "path": "worker-ants",
+      "version": 1,
+      "description": "Trunk heals from the first source of damage taken for the next x secs.",
+      "descriptionHtml": "Trunk heals from the first source of damage taken for the next <span style=\"color:#00cc00;\">x</span> secs.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001001.png",
+      "released": true
+    }
+  ]
+}

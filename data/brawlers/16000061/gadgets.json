@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000513,
+      "name": "KOOKY-POPPER",
+      "path": "kooky-popper",
+      "version": 1,
+      "description": "Explode all uncollected spirits, dealing x damage to nearby enemies.",
+      "descriptionHtml": "Explode all uncollected spirits, dealing <span style=\"color:#00cc00;\">x</span> damage to nearby enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000513.png",
+      "released": true
+    },
+    {
+      "id": 23000514,
+      "name": "SOUL-SWITCHER",
+      "path": "soul-switcher",
+      "version": 1,
+      "description": "Gus loses <ccc0000>x% health but gains x% spirit instantly.",
+      "descriptionHtml": "Gus loses <ccc0000>x%</span> health but gains <span style=\"color:#00cc00;\">x%</span> spirit instantly.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000514.png",
+      "released": true
+    }
+  ]
+}

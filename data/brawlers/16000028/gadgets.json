@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000270,
+      "name": "SLEEP-STIMULATOR",
+      "path": "sleep-stimulator",
+      "version": 1,
+      "description": "Sandy falls asleep for x seconds and his health is fully restored.",
+      "descriptionHtml": "Sandy falls asleep for <span style=\"color:#00cc00;\">x</span> seconds and his health is fully restored.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000270.png",
+      "released": true
+    },
+    {
+      "id": 23000405,
+      "name": "SWEET-DREAMS",
+      "path": "sweet-dreams",
+      "version": 1,
+      "description": "Sandy's next attack lulls opponents to sleep for x seconds. They will, however, wake up from any damage.",
+      "descriptionHtml": "Sandy's next attack lulls opponents to sleep for <span style=\"color:#00cc00;\">x</span> seconds. They will, however, wake up from any damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000405.png",
+      "released": true
+    }
+  ]
+}

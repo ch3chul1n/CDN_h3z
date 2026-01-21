@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000251,
+      "name": "SPARK-PLUG",
+      "path": "spark-plug",
+      "version": 1,
+      "description": "Jessie triggers a shockwave from her turret, slowing down all enemies within its area of effect.",
+      "descriptionHtml": "Jessie triggers a shockwave from her turret, slowing down all enemies within its area of effect.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000251.png",
+      "released": true
+    },
+    {
+      "id": 23000295,
+      "name": "RECOIL-SPRING",
+      "path": "recoil-spring",
+      "version": 1,
+      "description": "Scrappy's attack speed is doubled for x seconds.",
+      "descriptionHtml": "Scrappy's attack speed is doubled for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000295.png",
+      "released": true
+    }
+  ]
+}

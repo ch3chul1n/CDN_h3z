@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000478,
+      "name": "BLACK-POWDER",
+      "path": "black-powder",
+      "version": 1,
+      "description": "The range of Bonnie's Star Launcher is increased by x%.",
+      "descriptionHtml": "The range of Bonnie's Star Launcher is increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000478.png",
+      "released": true
+    },
+    {
+      "id": 23000479,
+      "name": "WISDOM-TOOTH",
+      "path": "wisdom-tooth",
+      "version": 1,
+      "description": "Loose Tooth shatters on hit, dealing x% extra damage to nearby enemies.",
+      "descriptionHtml": "Loose Tooth shatters on hit, dealing <span style=\"color:#00cc00;\">x%</span> extra damage to nearby enemies.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000479.png",
+      "released": true
+    }
+  ]
+}

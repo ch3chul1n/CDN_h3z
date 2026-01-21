@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000244,
+      "name": "GARDEN-MULCHER",
+      "path": "garden-mulcher",
+      "version": 1,
+      "description": "Sprout consumes a bush to restore x health.",
+      "descriptionHtml": "Sprout consumes a bush to restore <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000244.png",
+      "released": true
+    },
+    {
+      "id": 23000315,
+      "name": "TRANSPLANT",
+      "path": "transplant",
+      "version": 1,
+      "description": "Sprout destroys its current Hedge, but will instantly have its Super fully charged again.",
+      "descriptionHtml": "Sprout destroys its current Hedge, but will instantly have its Super fully charged again.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000315.png",
+      "released": true
+    }
+  ]
+}

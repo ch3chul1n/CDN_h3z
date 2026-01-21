@@ -1,0 +1,27 @@
+{
+  "id": 16000041,
+  "avatarId": 28000056,
+  "name": "LOU",
+  "hash": "lou",
+  "path": "lou",
+  "fankit": "lou",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/lou",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000041.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000041.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000041.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
+  "descriptionHtml": "Lou is a robot snow cone salesman who's yet to make his first sale. Being located on a snowy mountain peak might have something to do with that.",
+  "videos": []
+}

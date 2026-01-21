@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000307,
+      "name": "WILD-FLAMES",
+      "path": "wild-flames",
+      "version": 1,
+      "description": "Amber can have two fuel puddles on the ground simultaneously and she will recharge her Super automatically when standing near one.",
+      "descriptionHtml": "Amber can have two fuel puddles on the ground simultaneously and she will recharge her Super automatically when standing near one.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000307.png",
+      "released": true
+    },
+    {
+      "id": 23000308,
+      "name": "SCORCHIN-SIPHON",
+      "path": "scorchin-siphon",
+      "version": 1,
+      "description": "While being near a puddle of fire fluid, Amber uses it to reload her firebreathing x% faster.",
+      "descriptionHtml": "While being near a puddle of fire fluid, Amber uses it to reload her firebreathing <span style=\"color:#00cc00;\">x%</span> faster.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000308.png",
+      "released": true
+    }
+  ]
+}

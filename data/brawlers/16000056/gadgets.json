@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000454,
+      "name": "GOTTA-GO",
+      "path": "gotta-go",
+      "version": 1,
+      "description": "Eve jumps away and leaves behind a hatchling.",
+      "descriptionHtml": "Eve jumps away and leaves behind a hatchling.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000454.png",
+      "released": true
+    },
+    {
+      "id": 23000455,
+      "name": "MOTHERLY-LOVE",
+      "path": "motherly-love",
+      "version": 1,
+      "description": "Hatchlings spawned from an active big egg will now heal allies over time instead of dealing damage.",
+      "descriptionHtml": "Hatchlings spawned from an active big egg will now heal allies over time instead of dealing damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000455.png",
+      "released": true
+    }
+  ]
+}

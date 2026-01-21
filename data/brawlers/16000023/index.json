@@ -1,0 +1,27 @@
+{
+  "id": 16000023,
+  "avatarId": 28000037,
+  "name": "LEON",
+  "hash": "leon",
+  "path": "leon",
+  "fankit": "leon",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/leon",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000023.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000023.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000023.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
+  "descriptionHtml": "Since Leon doesn't like hanging with other people much, his ability to become invisible comes in handy. Only his little sister, Nita, seems to get through to him.",
+  "videos": []
+}

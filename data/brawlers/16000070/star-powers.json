@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000585,
+      "name": "COMBOSHROOMS",
+      "path": "comboshrooms",
+      "version": 1,
+      "description": "Hitting the second mushroom to the same target as the first, deals x% extra damage.",
+      "descriptionHtml": "Hitting the second mushroom to the same target as the first, deals <span style=\"color:#00cc00;\">x%</span> extra damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000585.png",
+      "released": true
+    },
+    {
+      "id": 23000586,
+      "name": "MUSHROOM-KINGDOM",
+      "path": "mushroom-kingdom",
+      "version": 1,
+      "description": "Cordelius spawns x mushrooms to the Shadow Realm after using his Super, healing allies and damaging enemies for x health on pickup.",
+      "descriptionHtml": "Cordelius spawns <span style=\"color:#00cc00;\">x</span> mushrooms to the Shadow Realm after using his Super, healing allies and damaging enemies for <span style=\"color:#00cc00;\">x</span> health on pickup.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000586.png",
+      "released": true
+    }
+  ]
+}

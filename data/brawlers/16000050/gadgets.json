@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000399,
+      "name": "PIGGY-BANK",
+      "path": "piggy-bank",
+      "version": 1,
+      "description": "Griff drops a firecracker-filled piggy bank that explodes after a short delay, destroying obstacles and dealing x damage to opponents within range.",
+      "descriptionHtml": "Griff drops a firecracker-filled piggy bank that explodes after a short delay, destroying obstacles and dealing <span style=\"color:#00cc00;\">x</span> damage to opponents within range.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000399.png",
+      "released": true
+    },
+    {
+      "id": 23000487,
+      "name": "COIN-SHOWER",
+      "path": "coin-shower",
+      "version": 1,
+      "description": "Griff's next Coin Toss shoots x% more coins.",
+      "descriptionHtml": "Griff's next Coin Toss shoots <span style=\"color:#00cc00;\">x%</span> more coins.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000487.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000764,
+      "name": "FLOOR-IS-FINE",
+      "path": "floor-is-fine",
+      "version": 1,
+      "description": "Berry gains x% increased reload speed when standing on his own melted ice cream.",
+      "descriptionHtml": "Berry gains <span style=\"color:#00cc00;\">x%</span> increased reload speed when standing on his own melted ice cream.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000764.png",
+      "released": true
+    },
+    {
+      "id": 23000765,
+      "name": "MAKING-A-MESS",
+      "path": "making-a-mess",
+      "version": 1,
+      "description": "Berry's basic attack gains x% extra damage on impact in areas with no ice cream.",
+      "descriptionHtml": "Berry's basic attack gains <span style=\"color:#00cc00;\">x%</span> extra damage on impact in areas with no ice cream.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000765.png",
+      "released": true
+    }
+  ]
+}

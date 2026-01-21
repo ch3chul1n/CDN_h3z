@@ -1,0 +1,27 @@
+{
+  "id": 16000101,
+  "avatarId": 28001074,
+  "name": "GLOWBERT",
+  "hash": "glowbert",
+  "path": "glowbert",
+  "fankit": "glowbert",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/glowbert",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000101.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000101.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000101.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "A marine biologist working at the Starr Park aquarium, Glowbert is obsessed with sea life, wanting to introduce it to as many visitors as he can. Although he might seem a bit creepy, he’s actually a nice guy! Maybe.",
+  "descriptionHtml": "A marine biologist working at the Starr Park aquarium, Glowbert is obsessed with sea life, wanting to introduce it to as many visitors as he can.<br>Although he might seem a bit creepy, he’s actually a nice guy! Maybe.",
+  "videos": []
+}

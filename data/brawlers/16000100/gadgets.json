@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001070,
+      "name": "LONGER-STRINGS",
+      "path": "longer-strings",
+      "version": 1,
+      "description": "Super charging area is bigger.",
+      "descriptionHtml": "Super charging area is bigger.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001070.png",
+      "released": true
+    },
+    {
+      "id": 23001071,
+      "name": "DISAPPEARING-ACT",
+      "path": "disappearing-act",
+      "version": 1,
+      "description": "Gigi creates an area that makes herself and allies invisible while inside. Lasts x secs.",
+      "descriptionHtml": "Gigi creates an area that makes herself and allies invisible while inside. Lasts <span style=\"color:#00cc00;\">x</span> secs.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001071.png",
+      "released": true
+    }
+  ]
+}

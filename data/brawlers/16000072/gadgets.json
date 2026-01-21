@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000603,
+      "name": "OVERCOOKED",
+      "path": "overcooked",
+      "version": 1,
+      "description": "Next basic attack shoots burning cookies, dealing x extra damage over time.",
+      "descriptionHtml": "Next basic attack shoots burning cookies, dealing <span style=\"color:#00cc00;\">x</span> extra damage over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000603.png",
+      "released": true
+    },
+    {
+      "id": 23000604,
+      "name": "MADE-WITH-LOVE",
+      "path": "made-with-love",
+      "version": 1,
+      "description": "Next basic attack shoots perfectly baked cookies ignoring enemies and healing allies for x over time instead.",
+      "descriptionHtml": "Next basic attack shoots perfectly baked cookies ignoring enemies and healing allies for <span style=\"color:#00cc00;\">x</span> over time instead.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000604.png",
+      "released": true
+    }
+  ]
+}

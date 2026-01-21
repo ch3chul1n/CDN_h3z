@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000569,
+      "name": "PINPOINT-PRECISION",
+      "path": "pinpoint-precision",
+      "version": 1,
+      "description": "Pressure rocket deals x% more damage at max distance.",
+      "descriptionHtml": "Pressure rocket deals <span style=\"color:#00cc00;\">x%</span> more damage at max distance.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000569.png",
+      "released": true
+    },
+    {
+      "id": 23000570,
+      "name": "TREMORS",
+      "path": "tremors",
+      "version": 1,
+      "description": "Enemies hit by Shockwave are also slowed down for x seconds.",
+      "descriptionHtml": "Enemies hit by Shockwave are also slowed down for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000570.png",
+      "released": true
+    }
+  ]
+}

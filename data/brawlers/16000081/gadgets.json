@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000754,
+      "name": "VANISH",
+      "path": "vanish",
+      "version": 1,
+      "description": "Lily enters the Shadow Realm for x seconds",
+      "descriptionHtml": "Lily enters the Shadow Realm for <span style=\"color:#00cc00;\">x</span> seconds",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000754.png",
+      "released": true
+    },
+    {
+      "id": 23000755,
+      "name": "REPOT",
+      "path": "repot",
+      "version": 1,
+      "description": "The next Flourish, becomes a thrown attack, and Lily teleports to the destination on impact",
+      "descriptionHtml": "The next Flourish, becomes a thrown attack, and Lily teleports to the destination on impact",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000755.png",
+      "released": true
+    }
+  ]
+}

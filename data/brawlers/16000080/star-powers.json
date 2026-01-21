@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000734,
+      "name": "EXPOSE",
+      "path": "expose",
+      "version": 1,
+      "description": "Every x seconds, the next Lance Stab exposes enemies on hit. Exposed enemies take x% increased damage for x seconds.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, the next Lance Stab exposes enemies on hit. Exposed enemies take <span style=\"color:#00cc00;\">x%</span> increased damage for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000734.png",
+      "released": true
+    },
+    {
+      "id": 23000735,
+      "name": "SHREDDING",
+      "path": "shredding",
+      "version": 1,
+      "description": "Dragon Solo now also heals for x when activated.",
+      "descriptionHtml": "Dragon Solo now also heals for <span style=\"color:#00cc00;\">x</span> when activated.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000735.png",
+      "released": true
+    }
+  ]
+}

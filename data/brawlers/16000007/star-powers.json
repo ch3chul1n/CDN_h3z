@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000083,
+      "name": "ENERGIZE",
+      "path": "energize",
+      "version": 1,
+      "description": "Jessie can repair her gun turret for x of its missing health by zapping it with her attack.",
+      "descriptionHtml": "Jessie can repair her gun turret for <span style=\"color:#00cc00;\">x</span> of its missing health by zapping it with her attack.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000083.png",
+      "released": true
+    },
+    {
+      "id": 23000149,
+      "name": "SHOCKY",
+      "path": "shocky",
+      "version": 1,
+      "description": "Scrappy the Turret now shoots energy orbs that bounce between enemies. The orbs' range after a bounce is x% of normal range.",
+      "descriptionHtml": "Scrappy the Turret now shoots energy orbs that bounce between enemies. The orbs' range after a bounce is <span style=\"color:#00cc00;\">x%</span> of normal range.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000149.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000326,
+      "name": "ICE-BLOCK",
+      "path": "ice-block",
+      "version": 1,
+      "description": "Lou shields himself with ice, becoming invulnerable for x seconds.",
+      "descriptionHtml": "Lou shields himself with ice, becoming invulnerable for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000326.png",
+      "released": true
+    },
+    {
+      "id": 23000400,
+      "name": "CRYO-SYRUP",
+      "path": "cryo-syrup",
+      "version": 1,
+      "description": "Instantly adds x% freeze meter to opponents inside Lou's Super.",
+      "descriptionHtml": "Instantly adds <span style=\"color:#00cc00;\">x%</span> freeze meter to opponents inside Lou's Super.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000400.png",
+      "released": true
+    }
+  ]
+}

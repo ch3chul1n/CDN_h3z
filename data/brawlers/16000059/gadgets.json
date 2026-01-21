@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000497,
+      "name": "DORMANT-STAR",
+      "path": "dormant-star",
+      "version": 1,
+      "description": "The next starfish will stay on the ground if an enemy is not hit, laying dormant until an enemy gets close.",
+      "descriptionHtml": "The next starfish will stay on the ground if an enemy is not hit, laying dormant until an enemy gets close.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000497.png",
+      "released": true
+    },
+    {
+      "id": 23000498,
+      "name": "PHAT-SPLATTER",
+      "path": "phat-splatter",
+      "version": 1,
+      "description": "Otis's next attack shoots a giant ink ball that leaves a puddle, dealing x damage over time for x seconds.",
+      "descriptionHtml": "Otis's next attack shoots a giant ink ball that leaves a puddle, dealing <span style=\"color:#00cc00;\">x</span> damage over time for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000498.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000834,
+      "name": "LONGARMS",
+      "path": "longarms",
+      "version": 1,
+      "description": "The next main attack has x% longer range.",
+      "descriptionHtml": "The next main attack has <span style=\"color:#00cc00;\">x%</span> longer range.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000834.png",
+      "released": true
+    },
+    {
+      "id": 23000835,
+      "name": "JUMP-SCARE",
+      "path": "jump-scare",
+      "version": 1,
+      "description": "Shade spooks nearby enemies, slowing them for x seconds.",
+      "descriptionHtml": "Shade spooks nearby enemies, slowing them for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000835.png",
+      "released": true
+    }
+  ]
+}

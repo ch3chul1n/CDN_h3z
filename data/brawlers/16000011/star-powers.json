@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000087,
+      "name": "CREEPY-HARVEST",
+      "path": "creepy-harvest",
+      "version": 1,
+      "description": "Mortis reaps the life essence of Brawlers he defeats, restoring x% of his max health.",
+      "descriptionHtml": "Mortis reaps the life essence of Brawlers he defeats, restoring <span style=\"color:#00cc00;\">x%</span> of his max health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000087.png",
+      "released": true
+    },
+    {
+      "id": 23000154,
+      "name": "COILED-SNAKE",
+      "path": "coiled-snake",
+      "version": 1,
+      "description": "Mortis gains his longer dash x seconds faster.",
+      "descriptionHtml": "Mortis gains his longer dash <span style=\"color:#00cc00;\">x</span> seconds faster.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000154.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000772,
+      "name": "RECON",
+      "path": "recon",
+      "version": 1,
+      "description": "Clancy starts the match with x tokens.",
+      "descriptionHtml": "Clancy starts the match with <span style=\"color:#00cc00;\">x</span> tokens.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000772.png",
+      "released": true
+    },
+    {
+      "id": 23000773,
+      "name": "PUMPING-UP",
+      "path": "pumping-up",
+      "version": 1,
+      "description": "Clancy reloads all of his ammo on every enemy takedown.",
+      "descriptionHtml": "Clancy reloads all of his ammo on every enemy takedown.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000773.png",
+      "released": true
+    }
+  ]
+}

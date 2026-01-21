@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000275,
+      "name": "VITAMIN-BOOSTER",
+      "path": "vitamin-booster",
+      "version": 1,
+      "description": "Bibi heals x health per second for x seconds.",
+      "descriptionHtml": "Bibi heals <span style=\"color:#00cc00;\">x</span> health per second for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000275.png",
+      "released": true
+    },
+    {
+      "id": 23000458,
+      "name": "EXTRA-STICKY",
+      "path": "extra-sticky",
+      "version": 1,
+      "description": "Bibi's next Spitball slows down enemies on hit for x seconds!",
+      "descriptionHtml": "Bibi's next Spitball slows down enemies on hit for <span style=\"color:#00cc00;\">x</span> seconds!",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000458.png",
+      "released": true
+    }
+  ]
+}

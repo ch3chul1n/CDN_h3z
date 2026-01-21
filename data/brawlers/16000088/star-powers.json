@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "id": 23000866,
+      "name": "LASER-MODE",
+      "path": "laser-mode",
+      "version": 1,
+      "description": "Buzz Lightyear's laser has extended range, allowing him to hit targets from farther away.",
+      "descriptionHtml": "Buzz Lightyear's laser has extended range, allowing him to hit targets from farther away.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000866.png",
+      "released": true
+    },
+    {
+      "id": 23000867,
+      "name": "SABER-MODE",
+      "path": "saber-mode",
+      "version": 1,
+      "description": "Buzz Lightyear charges his Super by absorbing damage taken and benefits from increased health.",
+      "descriptionHtml": "Buzz Lightyear charges his Super by absorbing damage taken and benefits from increased health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000867.png",
+      "released": true
+    },
+    {
+      "id": 23000868,
+      "name": "WING-MODE",
+      "path": "wing-mode",
+      "version": 1,
+      "description": "Buzz deploys his wings, gaining a boost in movement speed.",
+      "descriptionHtml": "Buzz deploys his wings, gaining a boost in movement speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000868.png",
+      "released": true
+    }
+  ]
+}

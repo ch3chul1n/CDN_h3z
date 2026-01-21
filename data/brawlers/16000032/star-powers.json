@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000210,
+      "name": "SUPER-CHARGED",
+      "path": "super-charged",
+      "version": 1,
+      "description": "Max now charges her Super while moving.",
+      "descriptionHtml": "Max now charges her Super while moving.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000210.png",
+      "released": true
+    },
+    {
+      "id": 23000211,
+      "name": "RUN-N-GUN",
+      "path": "run-n-gun",
+      "version": 1,
+      "description": "Max reloads faster while moving.",
+      "descriptionHtml": "Max reloads faster while moving.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000211.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16000057,
+  "avatarId": 28000085,
+  "name": "JANET",
+  "hash": "janet",
+  "path": "janet",
+  "fankit": "janet",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/janet",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000057.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000057.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000057.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
+  "descriptionHtml": "Janet will do whatever it takes to reach the top! As a bonus, her performing skills come in handy for rescuing her sister Bonnie, whenever she gets into trouble.",
+  "videos": []
+}

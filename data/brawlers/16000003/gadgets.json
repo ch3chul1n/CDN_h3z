@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000245,
+      "name": "ROCKET-LACES",
+      "path": "rocket-laces",
+      "version": 1,
+      "description": "Brock blasts the ground below him and propels himself into the air. The explosion deals x damage to nearby enemies.",
+      "descriptionHtml": "Brock blasts the ground below him and propels himself into the air. The explosion deals <span style=\"color:#00cc00;\">x</span> damage to nearby enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000245.png",
+      "released": true
+    },
+    {
+      "id": 23000316,
+      "name": "ROCKET-FUEL",
+      "path": "rocket-fuel",
+      "version": 1,
+      "description": "Brock's next attack is a mega rocket that is bigger, badder, faster and destroys walls.",
+      "descriptionHtml": "Brock's next attack is a mega rocket that is bigger, badder, faster and destroys walls.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000316.png",
+      "released": true
+    }
+  ]
+}

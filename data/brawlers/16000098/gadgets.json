@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001049,
+      "name": "ELECTRIC-SHUFFLE",
+      "path": "electric-shuffle",
+      "version": 1,
+      "description": "Ziggy hits the nearest enemy with lightning strikes every second for x sec. These attacks cost no ammo.",
+      "descriptionHtml": "Ziggy hits the nearest enemy with lightning strikes every second for <span style=\"color:#00cc00;\">x</span> sec. These attacks cost no ammo.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001049.png",
+      "released": true
+    },
+    {
+      "id": 23001050,
+      "name": "NOW-YOU-SEE-ME",
+      "path": "now-you-see-me",
+      "version": 1,
+      "description": "The next lightning strike also teleports Ziggy to the same location.",
+      "descriptionHtml": "The next lightning strike also teleports Ziggy to the same location.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001050.png",
+      "released": true
+    }
+  ]
+}

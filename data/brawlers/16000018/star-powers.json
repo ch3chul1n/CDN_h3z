@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000094,
+      "name": "STEEL-HOOPS",
+      "path": "steel-hoops",
+      "version": 1,
+      "description": "After Barrel Roll all damage Darryl takes is reduced by x% for x seconds.",
+      "descriptionHtml": "After Barrel Roll all damage Darryl takes is reduced by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000094.png",
+      "released": true
+    },
+    {
+      "id": 23000157,
+      "name": "ROLLING-RELOAD",
+      "path": "rolling-reload",
+      "version": 1,
+      "description": "When Darryl uses his Super, he doubles his reload speed for x seconds.",
+      "descriptionHtml": "When Darryl uses his Super, he doubles his reload speed for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000157.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000938,
+      "name": "ADVANCED-TECHNIQUES",
+      "path": "advanced-techniques",
+      "version": 1,
+      "description": "Hitting an enemy in a Strike Spot also slows them by x% for x sec",
+      "descriptionHtml": "Hitting an enemy in a Strike Spot also slows them by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> sec",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000938.png",
+      "released": true
+    },
+    {
+      "id": 23000939,
+      "name": "GRATUITY-INCLUDED",
+      "path": "gratuity-included",
+      "version": 1,
+      "description": "Removes x% ammo from brawlers initially caught in the Fan Storm",
+      "descriptionHtml": "Removes <span style=\"color:#00cc00;\">x%</span> ammo from brawlers initially caught in the Fan Storm",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000939.png",
+      "released": true
+    }
+  ]
+}

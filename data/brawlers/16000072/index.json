@@ -1,0 +1,27 @@
+{
+  "id": 16000072,
+  "avatarId": 28000319,
+  "name": "PEARL",
+  "hash": "pearl",
+  "path": "pearl",
+  "fankit": "pearl",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/pearl",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000072.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000072.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000072.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Against all odds, Pearl found her way into Belle and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
+  "descriptionHtml": "Against all odds, Pearl found her way into Belle and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
+  "videos": []
+}

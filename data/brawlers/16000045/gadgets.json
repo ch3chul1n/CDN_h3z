@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000364,
+      "name": "SPEED-ZONE",
+      "path": "speed-zone",
+      "version": 1,
+      "description": "Stu drops a booster that makes himself, his teammates and other allies move faster while inside its area of effect.",
+      "descriptionHtml": "Stu drops a booster that makes himself, his teammates and other allies move faster while inside its area of effect.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000364.png",
+      "released": true
+    },
+    {
+      "id": 23000401,
+      "name": "BREAKTHROUGH",
+      "path": "breakthrough",
+      "version": 1,
+      "description": "Stu's next Super can bash through obstacles, making debris fly forward. Each piece of debris deals x damage to any opponent it hits.",
+      "descriptionHtml": "Stu's next Super can bash through obstacles, making debris fly forward. Each piece of debris deals <span style=\"color:#00cc00;\">x</span> damage to any opponent it hits.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000401.png",
+      "released": true
+    }
+  ]
+}

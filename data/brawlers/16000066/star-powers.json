@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000553,
+      "name": "QUICK-MATHS",
+      "path": "quick-maths",
+      "version": 1,
+      "description": "Marks created last x seconds longer.",
+      "descriptionHtml": "Marks created last <span style=\"color:#00cc00;\">x</span> seconds longer.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000553.png",
+      "released": true
+    },
+    {
+      "id": 23000554,
+      "name": "RECORDING",
+      "path": "recording",
+      "version": 1,
+      "description": "R-T and his legs take x% less damage when split.",
+      "descriptionHtml": "R-T and his legs take <span style=\"color:#00cc00;\">x%</span> less damage when split.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000554.png",
+      "released": true
+    }
+  ]
+}

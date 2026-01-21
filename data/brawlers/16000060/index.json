@@ -1,0 +1,27 @@
+{
+  "id": 16000060,
+  "avatarId": 28000149,
+  "name": "SAM",
+  "hash": "sam",
+  "path": "sam",
+  "fankit": "sam",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/sam",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000060.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000060.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000060.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
+  "descriptionHtml": "A former factory worker turned wanted member of the Goldarm Gang, Sam is always there to ensure Belle doesn't go too far on their latest heist!",
+  "videos": []
+}

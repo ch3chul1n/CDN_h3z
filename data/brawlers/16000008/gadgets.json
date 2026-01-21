@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000249,
+      "name": "BEAR-PAWS",
+      "path": "bear-paws",
+      "version": 1,
+      "description": "Nita commands her bear to slam the ground, stunning all enemies within its reach.",
+      "descriptionHtml": "Nita commands her bear to slam the ground, stunning all enemies within its reach.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000249.png",
+      "released": true
+    },
+    {
+      "id": 23000314,
+      "name": "FAUX-FUR",
+      "path": "faux-fur",
+      "version": 1,
+      "description": "For the next x seconds, Nita's bear gets a x% shield against damage.",
+      "descriptionHtml": "For the next <span style=\"color:#00cc00;\">x</span> seconds, Nita's bear gets a <span style=\"color:#00cc00;\">x%</span> shield against damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000314.png",
+      "released": true
+    }
+  ]
+}

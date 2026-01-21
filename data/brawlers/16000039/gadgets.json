@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000302,
+      "name": "NA-AH",
+      "path": "na-ah",
+      "version": 1,
+      "description": "Colette's next shot deals extra x damage.",
+      "descriptionHtml": "Colette's next shot deals extra <span style=\"color:#00cc00;\">x</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000302.png",
+      "released": true
+    },
+    {
+      "id": 23000457,
+      "name": "GOTCHA",
+      "path": "gotcha",
+      "version": 1,
+      "description": "On activation, Colette's shots heal herself for x seconds for x% of the damage dealt.",
+      "descriptionHtml": "On activation, Colette's shots heal herself for <span style=\"color:#00cc00;\">x</span> seconds for <span style=\"color:#00cc00;\">x%</span> of the damage dealt.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000457.png",
+      "released": true
+    }
+  ]
+}

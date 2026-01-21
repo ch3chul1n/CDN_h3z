@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000929,
+      "name": "THE-CROWD-GOES-MILD",
+      "path": "the-crowd-goes-mild",
+      "version": 1,
+      "description": "Being near teammates gives Jae-yong a x% speed boost per teammate in range.",
+      "descriptionHtml": "Being near teammates gives Jae-yong a <span style=\"color:#00cc00;\">x%</span> speed boost per teammate in range.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000929.png",
+      "released": true
+    },
+    {
+      "id": 23000930,
+      "name": "EXTRA-HIGH-NOTE",
+      "path": "extra-high-note",
+      "version": 1,
+      "description": "Main Attacks now deal an additional x% Damage per target pierced.",
+      "descriptionHtml": "Main Attacks now deal an additional <span style=\"color:#00cc00;\">x%</span> Damage per target pierced.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000930.png",
+      "released": true
+    }
+  ]
+}

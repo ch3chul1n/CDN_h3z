@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000421,
+      "name": "FORCE-FIELD",
+      "path": "force-field",
+      "version": 1,
+      "description": "Meg is protected by a x% shield for x seconds when her Mecha is destroyed.",
+      "descriptionHtml": "Meg is protected by a <span style=\"color:#00cc00;\">x%</span> shield for <span style=\"color:#00cc00;\">x</span> seconds when her Mecha is destroyed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000421.png",
+      "released": true
+    },
+    {
+      "id": 23000422,
+      "name": "HEAVY-METAL",
+      "path": "heavy-metal",
+      "version": 1,
+      "description": "Upon expiring, the Mecha suit explodes, dealing x damage to nearby opponents and pushing them away.",
+      "descriptionHtml": "Upon expiring, the Mecha suit explodes, dealing <span style=\"color:#00cc00;\">x</span> damage to nearby opponents and pushing them away.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000422.png",
+      "released": true
+    }
+  ]
+}

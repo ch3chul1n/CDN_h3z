@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000086,
+      "name": "EL-FUEGO",
+      "path": "el-fuego",
+      "version": 1,
+      "description": "Enemies caught in El Primo's Super will burn for x damage over 4 seconds.",
+      "descriptionHtml": "Enemies caught in El Primo's Super will burn for <span style=\"color:#00cc00;\">x</span> damage over 4 seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000086.png",
+      "released": true
+    },
+    {
+      "id": 23000140,
+      "name": "METEOR-RUSH",
+      "path": "meteor-rush",
+      "version": 1,
+      "description": "El Primo gains a x% speed boost for x seconds after using his Super.",
+      "descriptionHtml": "El Primo gains a <span style=\"color:#00cc00;\">x%</span> speed boost for <span style=\"color:#00cc00;\">x</span> seconds after using his Super.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000140.png",
+      "released": true
+    }
+  ]
+}

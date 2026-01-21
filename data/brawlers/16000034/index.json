@@ -1,0 +1,27 @@
+{
+  "id": 16000034,
+  "avatarId": 28000049,
+  "name": "JACKY",
+  "hash": "jacky",
+  "path": "jacky",
+  "fankit": "jacky",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/jacky",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000034.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000034.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000034.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer",
+  "descriptionHtml": "Jacky is a miner who can't resist mouthing off about her wild work experiences using very colorful language! Luckily, the bad words are drowned out by the noise of her jackhammer",
+  "videos": []
+}

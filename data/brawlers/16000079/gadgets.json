@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000677,
+      "name": "STINGING-FLIGHT",
+      "path": "stinging-flight",
+      "version": 1,
+      "description": "Fly into the air for x seconds. Drains x health from nearby enemies on takeoff.",
+      "descriptionHtml": "Fly into the air for <span style=\"color:#00cc00;\">x</span> seconds. Drains <span style=\"color:#00cc00;\">x</span> health from nearby enemies on takeoff.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000677.png",
+      "released": true
+    },
+    {
+      "id": 23000678,
+      "name": "MASTER-FLETCHER",
+      "path": "master-fletcher",
+      "version": 1,
+      "description": "The next Take Aim pierces enemies and the environment.",
+      "descriptionHtml": "The next Take Aim pierces enemies and the environment.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000678.png",
+      "released": true
+    }
+  ]
+}

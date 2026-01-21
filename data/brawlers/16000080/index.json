@@ -1,0 +1,27 @@
+{
+  "id": 16000080,
+  "avatarId": 28000465,
+  "name": "DRACO",
+  "hash": "draco",
+  "path": "draco",
+  "fankit": "draco",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/draco",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000080.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000080.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000080.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd, he turns the fantasy up to eleven!",
+  "descriptionHtml": "Riding his inflatable dragon and setting off fireworks, Draco promises a show-stopping finale every night. With his electric guitar blaring and his flame-spewing ride rocking the crowd, he turns the fantasy up to eleven!",
+  "videos": []
+}

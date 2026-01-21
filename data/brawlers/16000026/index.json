@@ -1,0 +1,27 @@
+{
+  "id": 16000026,
+  "avatarId": 28000041,
+  "name": "BIBI",
+  "hash": "bibi",
+  "path": "bibi",
+  "fankit": "bibi",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/bibi",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000026.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000026.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000026.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
+  "descriptionHtml": "Bibi is a tough punk with a baseball bat and an attitude to match. She's a bit of a nerd too, but she'd never show it. She's got an image to maintain!",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000392,
+      "name": "RESERVE-BUOY",
+      "path": "reserve-buoy",
+      "version": 1,
+      "description": "Instantly fills the Super meter, but the next Torpedo Throw doesn't stun opponents.",
+      "descriptionHtml": "Instantly fills the Super meter, but the next Torpedo Throw doesn't stun opponents.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000392.png",
+      "released": true
+    },
+    {
+      "id": 23000490,
+      "name": "X-RAY-SHADES",
+      "path": "x-ray-shades",
+      "version": 1,
+      "description": "Buzz can see into all bushes in his Super charging area for x seconds.",
+      "descriptionHtml": "Buzz can see into all bushes in his Super charging area for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000490.png",
+      "released": true
+    }
+  ]
+}

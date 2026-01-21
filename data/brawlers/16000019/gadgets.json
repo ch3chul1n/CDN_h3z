@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000248,
+      "name": "SALTY-BARREL",
+      "path": "salty-barrel",
+      "version": 1,
+      "description": "Penny drops a barrel of salt that blocks enemy projectiles. She can also use it to burst her own gold pouches.",
+      "descriptionHtml": "Penny drops a barrel of salt that blocks enemy projectiles. She can also use it to burst her own gold pouches.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000248.png",
+      "released": true
+    },
+    {
+      "id": 23000287,
+      "name": "TRUSTY-SPYGLASS",
+      "path": "trusty-spyglass",
+      "version": 1,
+      "description": "Penny's cannon blasts at every visible enemy position within range.",
+      "descriptionHtml": "Penny's cannon blasts at every visible enemy position within range.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000287.png",
+      "released": true
+    }
+  ]
+}

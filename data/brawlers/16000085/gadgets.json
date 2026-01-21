@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000817,
+      "name": "DASHI-DASH",
+      "path": "dashi-dash",
+      "version": 1,
+      "description": "Kenji's basic attack only uses Dash for the next x seconds.",
+      "descriptionHtml": "Kenji's basic attack only uses Dash for the next <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000817.png",
+      "released": true
+    },
+    {
+      "id": 23000818,
+      "name": "HOSOMAKI-HEALING",
+      "path": "hosomaki-healing",
+      "version": 1,
+      "description": "Kenji instantly heals x% of damage taken over the last x seconds.",
+      "descriptionHtml": "Kenji instantly heals <span style=\"color:#00cc00;\">x%</span> of damage taken over the last <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000818.png",
+      "released": true
+    }
+  ]
+}

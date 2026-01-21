@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000077,
+      "name": "SLICK-BOOTS",
+      "path": "slick-boots",
+      "version": 1,
+      "description": "Colt's movement speed is increased by x%.",
+      "descriptionHtml": "Colt's movement speed is increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000077.png",
+      "released": true
+    },
+    {
+      "id": 23000138,
+      "name": "MAGNUM-SPECIAL",
+      "path": "magnum-special",
+      "version": 1,
+      "description": "Colt's attack range and bullet speed are increased by x%.",
+      "descriptionHtml": "Colt's attack range and bullet speed are increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000138.png",
+      "released": true
+    }
+  ]
+}

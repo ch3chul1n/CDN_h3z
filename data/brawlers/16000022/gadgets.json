@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000253,
+      "name": "MINE-MANIA",
+      "path": "mine-mania",
+      "version": 1,
+      "description": "Tick's next attack fires x mines.",
+      "descriptionHtml": "Tick's next attack fires <span style=\"color:#00cc00;\">x</span> mines.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000253.png",
+      "released": true
+    },
+    {
+      "id": 23000355,
+      "name": "LAST-HURRAH",
+      "path": "last-hurrah",
+      "version": 1,
+      "description": "Tick gains a x% shield for x seconds. After that, it bursts out for x damage.",
+      "descriptionHtml": "Tick gains a <span style=\"color:#00cc00;\">x%</span> shield for <span style=\"color:#00cc00;\">x</span> seconds. After that, it bursts out for <span style=\"color:#00cc00;\">x</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000355.png",
+      "released": true
+    }
+  ]
+}

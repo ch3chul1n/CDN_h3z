@@ -1,0 +1,27 @@
+{
+  "id": 16000039,
+  "avatarId": 28000054,
+  "name": "COLETTE",
+  "hash": "colette",
+  "path": "colette",
+  "fankit": "colette",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/colette",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000039.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000039.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000039.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
+  "descriptionHtml": "Colette has collected every single figurine, plushie, and toy of every single Brawler. Is she obsessed? Yes. But has she lost touch with reality? Also yes.",
+  "videos": []
+}

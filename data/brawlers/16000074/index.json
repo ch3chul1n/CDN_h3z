@@ -1,0 +1,27 @@
+{
+  "id": 16000074,
+  "avatarId": 28000333,
+  "name": "CHARLIE",
+  "hash": "charlie",
+  "path": "charlie",
+  "fankit": "charlie",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/charlie",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000074.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000074.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000074.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Itsy bitsy Charlie Put on a crazy show She let down her hair And made off with all your dough In came the crowd It filled up the circus tent So Charlie weaved away while Taking every cent!",
+  "descriptionHtml": "Itsy bitsy Charlie<br>Put on a crazy show<br>She let down her hair<br>And made off with all your dough<br>In came the crowd<br>It filled up the circus tent<br>So Charlie weaved away while<br>Taking every cent!",
+  "videos": []
+}

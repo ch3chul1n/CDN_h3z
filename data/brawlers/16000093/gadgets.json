@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000931,
+      "name": "WEEKEND-WARRIOR",
+      "path": "weekend-warrior",
+      "version": 1,
+      "description": "Deals area damage and increases main attack damage for x sec.",
+      "descriptionHtml": "Deals area damage and increases main attack damage for <span style=\"color:#00cc00;\">x</span> sec.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000931.png",
+      "released": true
+    },
+    {
+      "id": 23000932,
+      "name": "TIME-FOR-A-SLOW-SONG",
+      "path": "time-for-a-slow-song",
+      "version": 1,
+      "description": "Jae-yong slows enemies around him and his attacks will leave trails of slowing paperwork for x sec.",
+      "descriptionHtml": "Jae-yong slows enemies around him and his attacks will leave trails of slowing paperwork for <span style=\"color:#00cc00;\">x</span> sec.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000932.png",
+      "released": true
+    }
+  ]
+}

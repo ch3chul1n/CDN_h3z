@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000529,
+      "name": "SPICY-DICE",
+      "path": "spicy-dice",
+      "version": 1,
+      "description": "Chester gets a new random Super that is different from his current one.",
+      "descriptionHtml": "Chester gets a new random Super that is different from his current one.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000529.png",
+      "released": true
+    },
+    {
+      "id": 23000530,
+      "name": "CANDY-BEANS",
+      "path": "candy-beans",
+      "version": 1,
+      "description": "Chester eats a mystery flavored candy bean from his cap, gaining a random buff for x seconds.",
+      "descriptionHtml": "Chester eats a mystery flavored candy bean from his cap, gaining a random buff for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000530.png",
+      "released": true
+    }
+  ]
+}

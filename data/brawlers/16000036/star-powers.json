@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000234,
+      "name": "AUTOFOCUS",
+      "path": "autofocus",
+      "version": 1,
+      "description": "Peep deals up to x extra damage based on his travel distance.",
+      "descriptionHtml": "Peep deals up to <span style=\"color:#00cc00;\">x</span> extra damage based on his travel distance.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000234.png",
+      "released": true
+    },
+    {
+      "id": 23000235,
+      "name": "TEMPERED-STEEL",
+      "path": "tempered-steel",
+      "version": 1,
+      "description": "Nani takes x% less damage while her Super is active.",
+      "descriptionHtml": "Nani takes <span style=\"color:#00cc00;\">x</span>% less damage while her Super is active.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000235.png",
+      "released": true
+    }
+  ]
+}

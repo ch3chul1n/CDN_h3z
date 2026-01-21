@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000545,
+      "name": "CARAMELIZE",
+      "path": "caramelize",
+      "version": 1,
+      "description": "Mandy's next candy from her Candy Dispenser slows down enemies on hit for x seconds.",
+      "descriptionHtml": "Mandy's next candy from her Candy Dispenser slows down enemies on hit for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000545.png",
+      "released": true
+    },
+    {
+      "id": 23000546,
+      "name": "COOKIE-CRUMBS",
+      "path": "cookie-crumbs",
+      "version": 1,
+      "description": "Mandy's next candy from her Candy Dispenser pierces enemies and environment.",
+      "descriptionHtml": "Mandy's next candy from her Candy Dispenser pierces enemies and environment.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000546.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000259,
+      "name": "CHEAT-CARTRIDGE",
+      "path": "cheat-cartridge",
+      "version": 1,
+      "description": "8-Bit instantly teleports to his Damage Booster.",
+      "descriptionHtml": "8-Bit instantly teleports to his Damage Booster.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000259.png",
+      "released": true
+    },
+    {
+      "id": 23000318,
+      "name": "EXTRA-CREDITS",
+      "path": "extra-credits",
+      "version": 1,
+      "description": "8-Bit's next attack has the number of projectiles increased to x.",
+      "descriptionHtml": "8-Bit's next attack has the number of projectiles increased to <span style=\"color:#00cc00;\">x</span>.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000318.png",
+      "released": true
+    }
+  ]
+}

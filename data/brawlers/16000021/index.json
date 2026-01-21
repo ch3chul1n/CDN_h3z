@@ -1,0 +1,27 @@
+{
+  "id": 16000021,
+  "avatarId": 28000038,
+  "name": "GENE",
+  "hash": "gene",
+  "path": "gene",
+  "fankit": "gene",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/gene",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000021.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000021.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000021.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
+  "descriptionHtml": "Most people look at Gene and see a funny little guy in a costume. What they don't see is that his personality is split between his body and his teapot.",
+  "videos": []
+}

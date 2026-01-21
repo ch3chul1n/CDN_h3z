@@ -1,0 +1,27 @@
+{
+  "id": 16000100,
+  "avatarId": 28001006,
+  "name": "GIGI",
+  "hash": "gigi",
+  "path": "gigi",
+  "fankit": "gigi",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/gigi",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000100.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000100.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000100.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the Oddities Shop, dancing between the bookshelves.",
+  "descriptionHtml": "A cursed puppet who brings an unsettling vibe, Gigi and her bonded magician's glove are never found apart. You can find her in the Oddities Shop, dancing between the bookshelves.",
+  "videos": []
+}

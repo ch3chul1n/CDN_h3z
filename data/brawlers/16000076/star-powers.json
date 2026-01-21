@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000646,
+      "name": "POWER-HUNGRY",
+      "path": "power-hungry",
+      "version": 1,
+      "description": "Kit gains x% power from each Power Cube.",
+      "descriptionHtml": "Kit gains <span style=\"color:#00cc00;\">x%</span> power from each Power Cube.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000646.png",
+      "released": true
+    },
+    {
+      "id": 23000647,
+      "name": "OVERLY-ATTACHED",
+      "path": "overly-attached",
+      "version": 1,
+      "description": "Kit attaches to friendly brawlers for x seconds longer.",
+      "descriptionHtml": "Kit attaches to friendly brawlers for <span style=\"color:#00cc00;\">x</span> seconds longer.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000647.png",
+      "released": true
+    }
+  ]
+}

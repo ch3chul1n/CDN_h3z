@@ -1,0 +1,27 @@
+{
+  "id": 16000056,
+  "avatarId": 28000082,
+  "name": "EVE",
+  "hash": "eve",
+  "path": "eve",
+  "fankit": "eve",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/eve",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000056.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000056.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000056.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home... preferably in Ruffs' fur",
+  "descriptionHtml": "Eve's purpose in life is to mother and protect her precious babies! She'll do whatever it takes to find them a good home... preferably in Ruffs' fur",
+  "videos": []
+}

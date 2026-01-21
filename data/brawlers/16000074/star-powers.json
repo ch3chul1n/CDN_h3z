@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000623,
+      "name": "DIGESTIVE",
+      "path": "digestive",
+      "version": 1,
+      "description": "Cocooned enemies lose x% of their health while cocooned.",
+      "descriptionHtml": "Cocooned enemies lose <span style=\"color:#00cc00;\">x%</span> of their health while cocooned.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000623.png",
+      "released": true
+    },
+    {
+      "id": 23000624,
+      "name": "SLIMY",
+      "path": "slimy",
+      "version": 1,
+      "description": "Cocoon leaves a slimy trail behind it for x seconds that slows down enemies walking over it.",
+      "descriptionHtml": "Cocoon leaves a slimy trail behind it for <span style=\"color:#00cc00;\">x</span> seconds that slows down enemies walking over it.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000624.png",
+      "released": true
+    }
+  ]
+}

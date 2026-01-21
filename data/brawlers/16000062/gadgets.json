@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000521,
+      "name": "UTILITY-BELT",
+      "path": "utility-belt",
+      "version": 1,
+      "description": "Buster heals himself and all nearby allies for x health for each ally in his Super's charge area.",
+      "descriptionHtml": "Buster heals himself and all nearby allies for <span style=\"color:#00cc00;\">x</span> health for each ally in his Super's charge area.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000521.png",
+      "released": true
+    },
+    {
+      "id": 23000522,
+      "name": "SLO-MO-REPLAY",
+      "path": "slo-mo-replay",
+      "version": 1,
+      "description": "Buster's next Lens Flare pulls enemies towards him.",
+      "descriptionHtml": "Buster's next Lens Flare pulls enemies towards him.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000522.png",
+      "released": true
+    }
+  ]
+}

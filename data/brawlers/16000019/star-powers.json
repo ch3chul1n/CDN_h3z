@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000099,
+      "name": "HEAVY-COFFERS",
+      "path": "heavy-coffers",
+      "version": 1,
+      "description": "Penny's gold pouches burst with a x% wider cone after each hit.",
+      "descriptionHtml": "Penny's gold pouches burst with a <span style=\"color:#00cc00;\">x%</span> wider cone after each hit.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000099.png",
+      "released": true
+    },
+    {
+      "id": 23000142,
+      "name": "MASTER-BLASTER",
+      "path": "master-blaster",
+      "version": 1,
+      "description": "Penny's cannon deals x damage and knocks back nearby enemies on landing.",
+      "descriptionHtml": "Penny's cannon deals <span style=\"color:#00cc00;\">x</span> damage and knocks back nearby enemies on landing.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000142.png",
+      "released": true
+    }
+  ]
+}

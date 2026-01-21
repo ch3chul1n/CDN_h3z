@@ -1,0 +1,27 @@
+{
+  "id": 16000071,
+  "avatarId": 28000289,
+  "name": "DOUG",
+  "hash": "doug",
+  "path": "doug",
+  "fankit": "doug",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/doug",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000071.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000071.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000071.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Doug's hot dogs will extend your friends' shelf life.",
+  "descriptionHtml": "Doug's hot dogs will extend your friends' shelf life.",
+  "videos": []
+}

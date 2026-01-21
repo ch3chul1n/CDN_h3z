@@ -1,0 +1,27 @@
+{
+  "id": 16000069,
+  "avatarId": 28000266,
+  "name": "HANK",
+  "hash": "hank",
+  "path": "hank",
+  "fankit": "hank",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/hank",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000069.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000069.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000069.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
+  "descriptionHtml": "Hank is a one-shrimp, one-tank army on a mission to liberate sea life from kitchens and markets everywhere. Chefs, consider yourselves on notice!",
+  "videos": []
+}

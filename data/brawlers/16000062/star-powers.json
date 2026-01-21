@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000519,
+      "name": "BLOCKBUSTER",
+      "path": "blockbuster",
+      "version": 1,
+      "description": "Buster's Lens Flare deals x% more damage for each ally in his Super's charge area.",
+      "descriptionHtml": "Buster's Lens Flare deals <span style=\"color:#00cc00;\">x%</span> more damage for each ally in his Super's charge area.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000519.png",
+      "released": true
+    },
+    {
+      "id": 23000520,
+      "name": "KEVLAR-VEST",
+      "path": "kevlar-vest",
+      "version": 1,
+      "description": "While Montage is active Buster takes x% less damage and is immune to knockbacks, slows and stuns.",
+      "descriptionHtml": "While Montage is active Buster takes <span style=\"color:#00cc00;\">x%</span> less damage and is immune to knockbacks, slows and stuns.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000520.png",
+      "released": true
+    }
+  ]
+}

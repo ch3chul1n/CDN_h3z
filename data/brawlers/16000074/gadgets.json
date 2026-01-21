@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000625,
+      "name": "SPIDERS",
+      "path": "spiders",
+      "version": 1,
+      "description": "Charlie releases x spiders that seek and attack the nearest enemies.",
+      "descriptionHtml": "Charlie releases <span style=\"color:#00cc00;\">x</span> spiders that seek and attack the nearest enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000625.png",
+      "released": true
+    },
+    {
+      "id": 23000626,
+      "name": "PERSONAL-SPACE",
+      "path": "personal-space",
+      "version": 1,
+      "description": "Charlie cocoons herself, healing x% of her total health.",
+      "descriptionHtml": "Charlie cocoons herself, healing <span style=\"color:#00cc00;\">x%</span> of her total health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000626.png",
+      "released": true
+    }
+  ]
+}

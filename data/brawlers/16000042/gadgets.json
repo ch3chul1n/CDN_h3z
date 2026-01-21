@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000333,
+      "name": "SHOT-IN-THE-ARM",
+      "path": "shot-in-the-arm",
+      "version": 1,
+      "description": "Byron uses one of his shots to heal himself x per second for x seconds.",
+      "descriptionHtml": "Byron uses one of his shots to heal himself <span style=\"color:#00cc00;\">x</span> per second for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000333.png",
+      "released": true
+    },
+    {
+      "id": 23000461,
+      "name": "BOOSTER-SHOTS",
+      "path": "booster-shots",
+      "version": 1,
+      "description": "Byron's next attack shoots x darts instead of one, each dealing <ccc0000>x% less damage and <ccc0000>x% less healing.",
+      "descriptionHtml": "Byron's next attack shoots <span style=\"color:#00cc00;\">x</span> darts instead of one, each dealing <ccc0000>x%</span> less damage and <ccc0000>x%</span> less healing.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000461.png",
+      "released": true
+    }
+  ]
+}

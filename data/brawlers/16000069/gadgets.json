@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000579,
+      "name": "WATER-BALLOONS",
+      "path": "water-balloons",
+      "version": 1,
+      "description": "The next Balloon Blast also slows down enemies for x seconds.",
+      "descriptionHtml": "The next Balloon Blast also slows down enemies for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000579.png",
+      "released": true
+    },
+    {
+      "id": 23000580,
+      "name": "BARRICADE",
+      "path": "barricade",
+      "version": 1,
+      "description": "Hank takes x% reduced damage for x seconds.",
+      "descriptionHtml": "Hank takes <span style=\"color:#00cc00;\">x%</span> reduced damage for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000580.png",
+      "released": true
+    }
+  ]
+}

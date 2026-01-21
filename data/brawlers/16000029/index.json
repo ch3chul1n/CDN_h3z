@@ -1,0 +1,27 @@
+{
+  "id": 16000029,
+  "avatarId": 28000046,
+  "name": "BEA",
+  "hash": "bea",
+  "path": "bea",
+  "fankit": "bea",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/bea",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000029.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000029.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000029.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them... or even what it's like to be one.",
+  "descriptionHtml": "Bea spends her day watching bugs as they go about their lives, imagining what they'd say if she could understand them... or even what it's like to be one.",
+  "videos": []
+}

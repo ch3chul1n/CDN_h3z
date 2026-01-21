@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000561,
+      "name": "LOVE-IS-BLIND",
+      "path": "love-is-blind",
+      "version": 1,
+      "description": "Lantern's Curse also reduces reload speed of affected brawlers by x% for x seconds.",
+      "descriptionHtml": "Lantern's Curse also reduces reload speed of affected brawlers by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000561.png",
+      "released": true
+    },
+    {
+      "id": 23000562,
+      "name": "OBSESSION",
+      "path": "obsession",
+      "version": 1,
+      "description": "Hexed enemies gain x% movement speed while mind controlled.",
+      "descriptionHtml": "Hexed enemies gain <span style=\"color:#00cc00;\">x%</span> movement speed while mind controlled.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000562.png",
+      "released": true
+    }
+  ]
+}

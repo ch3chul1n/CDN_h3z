@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000300,
+      "name": "PUSH-IT",
+      "path": "push-it",
+      "version": 1,
+      "description": "All enemy Brawlers hit by Colette's charge are carried to the farthest point of the attack!",
+      "descriptionHtml": "All enemy Brawlers hit by Colette's charge are carried to the farthest point of the attack!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000300.png",
+      "released": true
+    },
+    {
+      "id": 23000301,
+      "name": "MASS-TAX",
+      "path": "mass-tax",
+      "version": 1,
+      "description": "Colette's Super gives her a x% shield for x seconds. Every enemy Brawler hit by it will add x% more protection.",
+      "descriptionHtml": "Colette's Super gives her a <span style=\"color:#00cc00;\">x%</span> shield for <span style=\"color:#00cc00;\">x</span> seconds. Every enemy Brawler hit by it will add <span style=\"color:#00cc00;\">x%</span> more protection.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000301.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000587,
+      "name": "REPLANTING",
+      "path": "replanting",
+      "version": 1,
+      "description": "Cordelius jumps over a piece of terrain quickly.",
+      "descriptionHtml": "Cordelius jumps over a piece of terrain quickly.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000587.png",
+      "released": true
+    },
+    {
+      "id": 23000588,
+      "name": "POISON-MUSHROOM",
+      "path": "poison-mushroom",
+      "version": 1,
+      "description": "Cordelius's next main attack shoots a poison mushroom that prevents the enemy from attacking for x seconds.",
+      "descriptionHtml": "Cordelius's next main attack shoots a poison mushroom that prevents the enemy from attacking for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000588.png",
+      "released": true
+    }
+  ]
+}

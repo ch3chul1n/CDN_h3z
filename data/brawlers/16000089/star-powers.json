@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000875,
+      "name": "DO-NOT-PASS-GO",
+      "path": "do-not-pass-go",
+      "version": 1,
+      "description": "When you shoot through environment deal x more damage.",
+      "descriptionHtml": "When you shoot through environment deal <span style=\"color:#00cc00;\">x</span> more damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000875.png",
+      "released": true
+    },
+    {
+      "id": 23000876,
+      "name": "RULE-BENDING",
+      "path": "rule-bending",
+      "version": 1,
+      "description": "Critical success also increases allies reload speed within the area by <VALUE>%.",
+      "descriptionHtml": "Critical success also increases allies reload speed within the area by <span style=\"color:#00cc00;\"><VALUE>%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000876.png",
+      "released": true
+    }
+  ]
+}

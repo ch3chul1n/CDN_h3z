@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000815,
+      "name": "STUDIED-THE-BLADE",
+      "path": "studied-the-blade",
+      "version": 1,
+      "description": "Slashimi's slices have x% longer range",
+      "descriptionHtml": "Slashimi's slices have <span style=\"color:#00cc00;\">x%</span> longer range",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000815.png",
+      "released": true
+    },
+    {
+      "id": 23000816,
+      "name": "NIGIRI-NEMESIS",
+      "path": "nigiri-nemesis",
+      "version": 1,
+      "description": "After avoiding damage for x seconds, gets x% damage reduction from the next enemy attack.",
+      "descriptionHtml": "After avoiding damage for <span style=\"color:#00cc00;\">x</span> seconds, gets <span style=\"color:#00cc00;\">x%</span> damage reduction from the next enemy attack.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000816.png",
+      "released": true
+    }
+  ]
+}

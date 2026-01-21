@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000186,
+      "name": "RUDE-SANDS",
+      "path": "rude-sands",
+      "version": 1,
+      "description": "Sandstorm now also damages enemies for x damage per second.",
+      "descriptionHtml": "Sandstorm now also damages enemies for <span style=\"color:#00cc00;\">x</span> damage per second.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000186.png",
+      "released": true
+    },
+    {
+      "id": 23000187,
+      "name": "HEALING-WINDS",
+      "path": "healing-winds",
+      "version": 1,
+      "description": "Sandstorm now also heals friendly Brawlers for x health per second.",
+      "descriptionHtml": "Sandstorm now also heals friendly Brawlers for <span style=\"color:#00cc00;\">x</span> health per second.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000187.png",
+      "released": true
+    }
+  ]
+}

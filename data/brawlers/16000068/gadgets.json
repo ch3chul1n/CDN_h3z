@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000571,
+      "name": "DISENGAGE",
+      "path": "disengage",
+      "version": 1,
+      "description": "Maisie blasts the ground, stunning enemies for x seconds while dashing forward.",
+      "descriptionHtml": "Maisie blasts the ground, stunning enemies for <span style=\"color:#00cc00;\">x</span> seconds while dashing forward.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000571.png",
+      "released": true
+    },
+    {
+      "id": 23000572,
+      "name": "FINISH-THEM",
+      "path": "finish-them",
+      "version": 1,
+      "description": "Maisie instantly reloads x ammo and increases the next Pressure Rocket damage by x% of the target's missing HP.",
+      "descriptionHtml": "Maisie instantly reloads <span style=\"color:#00cc00;\">x</span> ammo and increases the next Pressure Rocket damage by <span style=\"color:#00cc00;\">x%</span> of the target's missing HP.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000572.png",
+      "released": true
+    }
+  ]
+}

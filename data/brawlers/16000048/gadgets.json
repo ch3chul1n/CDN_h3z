@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000385,
+      "name": "WATCHTOWER",
+      "path": "watchtower",
+      "version": 1,
+      "description": "Grom ejects a Watchtower from his Grom Bomb that gives all allies sight into bushes over a large area. The watchtower slowly loses health over time.",
+      "descriptionHtml": "Grom ejects a Watchtower from his Grom Bomb that gives all allies sight into bushes over a large area. The watchtower slowly loses health over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000385.png",
+      "released": true
+    },
+    {
+      "id": 23000460,
+      "name": "RADIO-CHECK",
+      "path": "radio-check",
+      "version": 1,
+      "description": "Grom's next attack throws x Buds in rapid succession.",
+      "descriptionHtml": "Grom's next attack throws <span style=\"color:#00cc00;\">x</span> Buds in rapid succession.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000460.png",
+      "released": true
+    }
+  ]
+}

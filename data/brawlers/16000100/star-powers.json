@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001068,
+      "name": "PLI-PROTECTION",
+      "path": "pli-protection",
+      "version": 1,
+      "description": "Increases Super charge rate by x% if no damage has been received for x secs",
+      "descriptionHtml": "Increases Super charge rate by <span style=\"color:#00cc00;\">x%</span> if no damage has been received for <span style=\"color:#00cc00;\">x</span> secs",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001068.png",
+      "released": true
+    },
+    {
+      "id": 23001069,
+      "name": "A-HELPING-HAND",
+      "path": "a-helping-hand",
+      "version": 1,
+      "description": "SHADOW PUPPET now heals for x after charging up.",
+      "descriptionHtml": "SHADOW PUPPET now heals for <span style=\"color:#00cc00;\">x</span> after charging up.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001069.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000637,
+      "name": "MONKEY-BUSINESS",
+      "path": "monkey-business",
+      "version": 1,
+      "description": "Every x seconds, Mico's basic attack steals ammo from his enemies after hitting them.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, Mico's basic attack steals ammo from his enemies after hitting them.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000637.png",
+      "released": true
+    },
+    {
+      "id": 23000638,
+      "name": "RECORD-SMASH",
+      "path": "record-smash",
+      "version": 1,
+      "description": "Mico deals x% extra damage against non brawlers.",
+      "descriptionHtml": "Mico deals <span style=\"color:#00cc00;\">x%</span> extra damage against non brawlers.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000638.png",
+      "released": true
+    }
+  ]
+}

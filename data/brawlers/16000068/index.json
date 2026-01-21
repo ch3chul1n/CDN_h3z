@@ -1,0 +1,27 @@
+{
+  "id": 16000068,
+  "avatarId": 28000265,
+  "name": "MAISIE",
+  "hash": "maisie",
+  "path": "maisie",
+  "fankit": "maisie",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/maisie",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000068.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000068.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000068.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
+  "descriptionHtml": "Maisie works as a safety coordinator, but deep down she enjoys dangerous situations. Sometimes, it almost feels like she has a hand in creating them.",
+  "videos": []
+}

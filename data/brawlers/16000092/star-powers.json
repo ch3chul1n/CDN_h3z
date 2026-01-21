@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000915,
+      "name": "HIEROGLYPH-HALT",
+      "path": "hieroglyph-halt",
+      "version": 1,
+      "description": "Finx reduces the reload speed of any enemy Brawlers hit by his main attack by x% for x seconds.",
+      "descriptionHtml": "Finx reduces the reload speed of any enemy Brawlers hit by his main attack by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000915.png",
+      "released": true
+    },
+    {
+      "id": 23000916,
+      "name": "PRIMER",
+      "path": "primer",
+      "version": 1,
+      "description": "Damage dealt only from Finx's projectiles that are sped up by Time Warp, will increase the Super duration by x seconds each.",
+      "descriptionHtml": "Damage dealt only from Finx's projectiles that are sped up by Time Warp, will increase the Super duration by <span style=\"color:#00cc00;\">x</span> seconds each.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000916.png",
+      "released": true
+    }
+  ]
+}

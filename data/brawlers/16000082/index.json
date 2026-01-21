@@ -1,0 +1,27 @@
+{
+  "id": 16000082,
+  "avatarId": 28000532,
+  "name": "BERRY",
+  "hash": "berry",
+  "path": "berry",
+  "fankit": "berry",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/berry",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000082.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000082.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000082.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
+  "descriptionHtml": "Working at Mandy's Candy Shop, what could go wrong? EVERYTHING! Luckily, Berry has the patience and toughness of a workhorse. He seems to hate every second of his job, but at the end of his shift, you might catch a brief smile.",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000198,
+      "name": "BAD-KARMA",
+      "path": "bad-karma",
+      "version": 1,
+      "description": "Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, x% per hit.",
+      "descriptionHtml": "Enemies that stay within the cloud of Emz's toxic hair spray suffer increasing damage, <span style=\"color:#00cc00;\">x%</span> per hit.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000198.png",
+      "released": true
+    },
+    {
+      "id": 23000199,
+      "name": "HYPE",
+      "path": "hype",
+      "version": 1,
+      "description": "Emz recovers x health per second for each enemy Brawler inside her Super's area of effect.",
+      "descriptionHtml": "Emz recovers <span style=\"color:#00cc00;\">x</span> health per second for each enemy Brawler inside her Super's area of effect.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000199.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16000000,
+  "avatarId": 28000003,
+  "name": "SHELLY",
+  "hash": "shelly",
+  "path": "shelly",
+  "fankit": "shelly",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/shelly",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000000.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000000.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000000.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 1,
+    "name": "Common",
+    "color": "#b9eaff"
+  },
+  "unlock": null,
+  "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
+  "descriptionHtml": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
+  "videos": []
+}

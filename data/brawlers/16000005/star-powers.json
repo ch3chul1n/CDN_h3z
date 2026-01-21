@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000081,
+      "name": "FERTILIZE",
+      "path": "fertilize",
+      "version": 1,
+      "description": "Super heals for x% of damage dealt.",
+      "descriptionHtml": "Super heals for <span style=\"color:#00cc00;\">x%</span> of damage dealt.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000081.png",
+      "released": true
+    },
+    {
+      "id": 23000151,
+      "name": "CURVEBALL",
+      "path": "curveball",
+      "version": 1,
+      "description": "Spikes from the cactus grenade fly in a curving motion, making it easier to hit targets.",
+      "descriptionHtml": "Spikes from the cactus grenade fly in a curving motion, making it easier to hit targets.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000151.png",
+      "released": true
+    }
+  ]
+}

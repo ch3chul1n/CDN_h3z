@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": 23000869,
+      "name": "TURBO-BOOSTERS",
+      "path": "turbo-boosters",
+      "version": 1,
+      "description": "Buzz Lightyear activates his turbo, sprinting forward in his current direction.",
+      "descriptionHtml": "Buzz Lightyear activates his turbo, sprinting forward in his current direction.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000869.png",
+      "released": true
+    }
+  ]
+}

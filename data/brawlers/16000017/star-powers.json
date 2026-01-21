@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000093,
+      "name": "BLACK-PORTAL",
+      "path": "black-portal",
+      "version": 1,
+      "description": "Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears and attacks her enemies.",
+      "descriptionHtml": "Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears and attacks her enemies.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000093.png",
+      "released": true
+    },
+    {
+      "id": 23000160,
+      "name": "HEALING-SHADE",
+      "path": "healing-shade",
+      "version": 1,
+      "description": "Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears to heal Tara and her teammates.",
+      "descriptionHtml": "Tara's Super cracks open a dimensional portal! A shadowy version of Tara appears to heal Tara and her teammates.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000160.png",
+      "released": true
+    }
+  ]
+}

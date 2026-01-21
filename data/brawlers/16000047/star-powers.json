@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000376,
+      "name": "CHAIN-REACTION",
+      "path": "chain-reaction",
+      "version": 1,
+      "description": "Each opponent within the area of a Sticky Blomb's explosion increases the Blomb's damage by x%.",
+      "descriptionHtml": "Each opponent within the area of a Sticky Blomb's explosion increases the Blomb's damage by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000376.png",
+      "released": true
+    },
+    {
+      "id": 23000377,
+      "name": "SUPER-STICKY",
+      "path": "super-sticky",
+      "version": 1,
+      "description": "Secondary Sticky Blomb explosions from Squeak's Super also slow down opponents for x seconds.",
+      "descriptionHtml": "Secondary Sticky Blomb explosions from Squeak's Super also slow down opponents for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000377.png",
+      "released": true
+    }
+  ]
+}

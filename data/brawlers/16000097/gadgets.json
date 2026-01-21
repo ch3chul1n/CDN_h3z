@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001041,
+      "name": "WINDMILL",
+      "path": "windmill",
+      "version": 1,
+      "description": "Creates a wall of wind that blocks projectiles for x sec.",
+      "descriptionHtml": "Creates a wall of wind that blocks projectiles for <span style=\"color:#00cc00;\">x</span> sec.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001041.png",
+      "released": true
+    },
+    {
+      "id": 23001042,
+      "name": "CAPO-WHAT",
+      "path": "capo-what",
+      "version": 1,
+      "description": "Mina's next Super recharges instantly if it hits.",
+      "descriptionHtml": "Mina's next Super recharges instantly if it hits.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001042.png",
+      "released": true
+    }
+  ]
+}

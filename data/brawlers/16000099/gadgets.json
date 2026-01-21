@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001062,
+      "name": "BOTTOMLESS-MAGS",
+      "path": "bottomless-mags",
+      "version": 1,
+      "description": "Reload x ammo and drop a shell next to Pierce.",
+      "descriptionHtml": "Reload <span style=\"color:#00cc00;\">x</span> ammo and drop a shell next to Pierce.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001062.png",
+      "released": true
+    },
+    {
+      "id": 23001063,
+      "name": "YOU-ONLY-BRAWL-TWICE",
+      "path": "you-only-brawl-twice",
+      "version": 1,
+      "description": "Pierce will absorb all shells and gain x shield for each one, while also pushing back nearby enemies.",
+      "descriptionHtml": "Pierce will absorb all shells and gain <span style=\"color:#00cc00;\">x</span> shield for each one, while also pushing back nearby enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23001063.png",
+      "released": true
+    }
+  ]
+}

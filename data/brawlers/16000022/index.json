@@ -1,0 +1,27 @@
+{
+  "id": 16000022,
+  "avatarId": 28000042,
+  "name": "TICK",
+  "hash": "tick",
+  "path": "tick",
+  "fankit": "tick",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/tick",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000022.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000022.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000022.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
+  "descriptionHtml": "Tick follows Penny around like a pet as she plots her next big scheme. He isn't good for much besides blowing things up, but that's usually plenty!",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000088,
+      "name": "EXTRA-TOXIC",
+      "path": "extra-toxic",
+      "version": 1,
+      "description": "Crow's poison saps the strength of enemies, who deal x% less damage while poisoned.",
+      "descriptionHtml": "Crow's poison saps the strength of enemies, who deal <span style=\"color:#00cc00;\">x%</span> less damage while poisoned.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000088.png",
+      "released": true
+    },
+    {
+      "id": 23000143,
+      "name": "CARRION-CROW",
+      "path": "carrion-crow",
+      "version": 1,
+      "description": "Crow deals +x% damage with his attack and Super to targets with x% or less health.",
+      "descriptionHtml": "Crow deals <span style=\"color:#00cc00;\">+x%</span> damage with his attack and Super to targets with x% or less health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000143.png",
+      "released": true
+    }
+  ]
+}

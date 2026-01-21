@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000736,
+      "name": "UPPER-CUT",
+      "path": "upper-cut",
+      "version": 1,
+      "description": "The next Lance Stab also throws enemies in the air for a short time.",
+      "descriptionHtml": "The next Lance Stab also throws enemies in the air for a short time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000736.png",
+      "released": true
+    },
+    {
+      "id": 23000737,
+      "name": "LAST-STAND",
+      "path": "last-stand",
+      "version": 1,
+      "description": "Draco can not fall under one health for x seconds.",
+      "descriptionHtml": "Draco can not fall under one health for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000737.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000257,
+      "name": "PULSE-MODULATOR",
+      "path": "pulse-modulator",
+      "version": 1,
+      "description": "Pam triggers her turret to emit a pulse that heals allies inside the turret's range, including herself, for x health.",
+      "descriptionHtml": "Pam triggers her turret to emit a pulse that heals allies inside the turret's range, including herself, for <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000257.png",
+      "released": true
+    },
+    {
+      "id": 23000404,
+      "name": "SCRAPSUCKER",
+      "path": "scrapsucker",
+      "version": 1,
+      "description": "Each hit from Pam's next attack removes x% of opposing Brawlers' maximum ammo. Pam reclaims x% of the ammo for herself.",
+      "descriptionHtml": "Each hit from Pam's next attack removes <span style=\"color:#00cc00;\">x%</span> of opposing Brawlers' maximum ammo. Pam reclaims <span style=\"color:#00cc00;\">x%</span> of the ammo for herself.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000404.png",
+      "released": true
+    }
+  ]
+}

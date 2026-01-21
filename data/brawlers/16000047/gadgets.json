@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000378,
+      "name": "WINDUP",
+      "path": "windup",
+      "version": 1,
+      "description": "Squeak's next Sticky Blomb deals x% more damage and has x% longer range.",
+      "descriptionHtml": "Squeak's next Sticky Blomb deals <span style=\"color:#00cc00;\">x%</span> more damage and has <span style=\"color:#00cc00;\">x%</span> longer range.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000378.png",
+      "released": true
+    },
+    {
+      "id": 23000462,
+      "name": "RESIDUE",
+      "path": "residue",
+      "version": 1,
+      "description": "Squeak's next Sticky Blomb leaves a residue area behind after exploding, slowing down enemies and giving allies sight into bushes for x seconds.",
+      "descriptionHtml": "Squeak's next Sticky Blomb leaves a residue area behind after exploding, slowing down enemies and giving allies sight into bushes for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000462.png",
+      "released": true
+    }
+  ]
+}

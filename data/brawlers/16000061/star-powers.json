@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000511,
+      "name": "HEALTH-BONANZA",
+      "path": "health-bonanza",
+      "version": 1,
+      "description": "Healing gained from spirits is increased by x%.",
+      "descriptionHtml": "Healing gained from spirits is increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000511.png",
+      "released": true
+    },
+    {
+      "id": 23000512,
+      "name": "SPIRIT-ANIMAL",
+      "path": "spirit-animal",
+      "version": 1,
+      "description": "Spooky increases the damage of a teammate by x% for x seconds.",
+      "descriptionHtml": "Spooky increases the damage of a teammate by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000512.png",
+      "released": true
+    }
+  ]
+}

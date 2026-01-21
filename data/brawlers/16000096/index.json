@@ -1,0 +1,27 @@
+{
+  "id": 16000096,
+  "avatarId": 28000899,
+  "name": "TRUNK",
+  "hash": "trunk",
+  "path": "trunk",
+  "fankit": "trunk",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/trunk",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000096.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000096.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000096.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Trunk is a suspiciously uncanny-looking tree. It couldn't be because Trunk is actually a colony of hyper-intelligent ants controlling a fake mechanical tree? No, that would be ridiculous.",
+  "descriptionHtml": "Trunk is a suspiciously uncanny-looking tree. It couldn't be because Trunk is actually a colony of hyper-intelligent ants controlling a fake mechanical tree? No, that would be ridiculous.",
+  "videos": []
+}

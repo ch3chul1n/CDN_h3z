@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000609,
+      "name": "PIT-STOP",
+      "path": "pit-stop",
+      "version": 1,
+      "description": "Increase the maximum amount of Posts by x.",
+      "descriptionHtml": "Increase the maximum amount of Posts by <span style=\"color:#00cc00;\">x</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000609.png",
+      "released": true
+    },
+    {
+      "id": 23000610,
+      "name": "TICKETS-PLEASE",
+      "path": "tickets-please",
+      "version": 1,
+      "description": "Dashing through enemies with his Super will also steal x% of their ammo.",
+      "descriptionHtml": "Dashing through enemies with his Super will also steal <span style=\"color:#00cc00;\">x%</span> of their ammo.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000610.png",
+      "released": true
+    }
+  ]
+}

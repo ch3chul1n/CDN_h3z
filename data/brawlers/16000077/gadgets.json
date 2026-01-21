@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000661,
+      "name": "ORDER-SWAP",
+      "path": "order-swap",
+      "version": 1,
+      "description": "Swap weapons with Lawrie.",
+      "descriptionHtml": "Swap weapons with Lawrie.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000661.png",
+      "released": true
+    },
+    {
+      "id": 23000662,
+      "name": "ORDER-FALL-BACK",
+      "path": "order-fall-back",
+      "version": 1,
+      "description": "Dash towards Lawrie while Lawrie dashes towards you, healing both for x% of max health.",
+      "descriptionHtml": "Dash towards Lawrie while Lawrie dashes towards you, healing both for <span style=\"color:#00cc00;\">x%</span> of max health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000662.png",
+      "released": true
+    }
+  ]
+}

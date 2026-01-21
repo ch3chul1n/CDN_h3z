@@ -1,0 +1,27 @@
+{
+  "id": 16000018,
+  "avatarId": 28000034,
+  "name": "DARRYL",
+  "hash": "darryl",
+  "path": "darryl",
+  "fankit": "darryl",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/darryl",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000018.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000018.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000018.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
+  "descriptionHtml": "Darryl put on the pirate captain's hat in a bid to avoid work, but now he's forced to defend his ship! Who knew being in charge took actual effort?",
+  "videos": []
+}

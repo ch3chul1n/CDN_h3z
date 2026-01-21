@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000254,
+      "name": "PHASE-SHIFTER",
+      "path": "phase-shifter",
+      "version": 1,
+      "description": "Max dashes forward, and becomes immune to all damage from enemies while dashing.",
+      "descriptionHtml": "Max dashes forward, and becomes immune to all damage from enemies while dashing.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000254.png",
+      "released": true
+    },
+    {
+      "id": 23000311,
+      "name": "SNEAKY-SNEAKERS",
+      "path": "sneaky-sneakers",
+      "version": 1,
+      "description": "Max blinks back to a place of her choosing after x seconds' delay, recovering any damage she received in the meantime.",
+      "descriptionHtml": "Max blinks back to a place of her choosing after <span style=\"color:#00cc00;\">x</span> seconds' delay, recovering any damage she received in the meantime.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000311.png",
+      "released": true
+    }
+  ]
+}

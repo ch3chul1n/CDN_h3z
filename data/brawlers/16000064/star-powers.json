@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000535,
+      "name": "FAKE-INJURY",
+      "path": "fake-injury",
+      "version": 1,
+      "description": "When Gray has full health, the next damage taken is reduced by <VALUE>%.",
+      "descriptionHtml": "When Gray has full health, the next damage taken is reduced by <span style=\"color:#00cc00;\"><VALUE>%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000535.png",
+      "released": true
+    },
+    {
+      "id": 23000536,
+      "name": "NEW-PERSPECTIVE",
+      "path": "new-perspective",
+      "version": 1,
+      "description": "When Gray or his Allies use Doors, they recover <VALUE>% of their max hit points.",
+      "descriptionHtml": "When Gray or his Allies use Doors, they recover <span style=\"color:#00cc00;\"><VALUE>%</span> of their max hit points.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000536.png",
+      "released": true
+    }
+  ]
+}

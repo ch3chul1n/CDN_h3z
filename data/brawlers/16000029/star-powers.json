@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000192,
+      "name": "INSTA-BEALOAD",
+      "path": "insta-beaload",
+      "version": 1,
+      "description": "Instantly Supercharge Bea's Big Sting one time if she misses a Supercharged shot.",
+      "descriptionHtml": "Instantly Supercharge Bea's Big Sting one time if she misses a Supercharged shot.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000192.png",
+      "released": true
+    },
+    {
+      "id": 23000193,
+      "name": "HONEYCOMB",
+      "path": "honeycomb",
+      "version": 1,
+      "description": "Bea receives a x% shield while Big Sting is Supercharged.",
+      "descriptionHtml": "Bea receives a <span style=\"color:#00cc00;\">x%</span> shield while Big Sting is Supercharged.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000193.png",
+      "released": true
+    }
+  ]
+}

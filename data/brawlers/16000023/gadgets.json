@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000276,
+      "name": "CLONE-PROJECTOR",
+      "path": "clone-projector",
+      "version": 1,
+      "description": "Leon creates an illusion of himself to confuse his enemies.",
+      "descriptionHtml": "Leon creates an illusion of himself to confuse his enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000276.png",
+      "released": true
+    },
+    {
+      "id": 23000408,
+      "name": "LOLLIPOP-DROP",
+      "path": "lollipop-drop",
+      "version": 1,
+      "description": "Leon creates a stealthy area for his team to hide in. The lollipop slowly loses its health over time.",
+      "descriptionHtml": "Leon creates a stealthy area for his team to hide in. The lollipop slowly loses its health over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000408.png",
+      "released": true
+    }
+  ]
+}

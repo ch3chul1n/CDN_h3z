@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000675,
+      "name": "EMPOWER",
+      "path": "empower",
+      "version": 1,
+      "description": "Staying inside the Super will heal Angelo for x per second.",
+      "descriptionHtml": "Staying inside the Super will heal Angelo for <span style=\"color:#00cc00;\">x</span> per second.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000675.png",
+      "released": true
+    },
+    {
+      "id": 23000676,
+      "name": "FLOW",
+      "path": "flow",
+      "version": 1,
+      "description": "Angelo gains x% increased movement speed after entering water.",
+      "descriptionHtml": "Angelo gains <span style=\"color:#00cc00;\">x%</span> increased movement speed after entering water.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000676.png",
+      "released": true
+    }
+  ]
+}

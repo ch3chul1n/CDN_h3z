@@ -1,0 +1,27 @@
+{
+  "id": 16000097,
+  "avatarId": 28000934,
+  "name": "MINA",
+  "hash": "mina",
+  "path": "mina",
+  "fankit": "mina",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/mina",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000097.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000097.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000097.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Mina is a b-girl who mixes capoeira into her breakdance battles like it's second nature. She hangs out at SK8 Beats with Ollie and uses his mixtapes to practice new moves!",
+  "descriptionHtml": "Mina is a b-girl who mixes capoeira into her breakdance battles like it's second nature. She hangs out at SK8 Beats with Ollie and uses his mixtapes to practice new moves!",
+  "videos": []
+}

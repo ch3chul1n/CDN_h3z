@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000085,
+      "name": "DYNA-JUMP",
+      "path": "dyna-jump",
+      "version": 1,
+      "description": "Dynamike can ride the blast wave of his explosives to jump over obstacles!",
+      "descriptionHtml": "Dynamike can ride the blast wave of his explosives to jump over obstacles!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000085.png",
+      "released": true
+    },
+    {
+      "id": 23000155,
+      "name": "DEMOLITION",
+      "path": "demolition",
+      "version": 1,
+      "description": "Adds +x damage to Mike's Super.",
+      "descriptionHtml": "Adds <span style=\"color:#00cc00;\">+x</span> damage to Mike's Super.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000155.png",
+      "released": true
+    }
+  ]
+}

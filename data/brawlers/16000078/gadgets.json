@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000669,
+      "name": "PERFECT-PITCH",
+      "path": "perfect-pitch",
+      "version": 1,
+      "description": "Melodie's notes get x% increased movement speed and x% wider orbit for x seconds.",
+      "descriptionHtml": "Melodie's notes get <span style=\"color:#00cc00;\">x%</span> increased movement speed and <span style=\"color:#00cc00;\">x%</span> wider orbit for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000669.png",
+      "released": true
+    },
+    {
+      "id": 23000670,
+      "name": "INTERLUDE",
+      "path": "interlude",
+      "version": 1,
+      "description": "Melodie gains x% Shield from each note orbiting her.",
+      "descriptionHtml": "Melodie gains <span style=\"color:#00cc00;\">x%</span> Shield from each note orbiting her.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000670.png",
+      "released": true
+    }
+  ]
+}

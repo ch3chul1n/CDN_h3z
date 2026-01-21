@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000204,
+      "name": "HANDLE-WITH-CARE",
+      "path": "handle-with-care",
+      "version": 1,
+      "description": "Every x seconds, the explosion damage of Mr. P's next overstuffed suitcase is increased by x%.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, the explosion damage of Mr. P's next overstuffed suitcase is increased by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000204.png",
+      "released": true
+    },
+    {
+      "id": 23000205,
+      "name": "REVOLVING-DOOR",
+      "path": "revolving-door",
+      "version": 1,
+      "description": "All robo-porters from the home base now have x% more health and x% higher damage.",
+      "descriptionHtml": "All robo-porters from the home base now have <span style=\"color:#00cc00;\">x%</span> more health and <span style=\"color:#00cc00;\">x%</span> higher damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000205.png",
+      "released": true
+    }
+  ]
+}

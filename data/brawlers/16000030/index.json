@@ -1,0 +1,27 @@
+{
+  "id": 16000030,
+  "avatarId": 28000045,
+  "name": "EMZ",
+  "hash": "emz",
+  "path": "emz",
+  "fankit": "emz",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/emz",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000030.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000030.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000030.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
+  "descriptionHtml": "Emz supposedly works for her uncle Mortis at the mortuary, but she rarely makes an appearance there. She's too busy hawking her hairspray brand online.",
+  "videos": []
+}

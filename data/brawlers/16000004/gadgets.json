@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000246,
+      "name": "MULTIBALL-LAUNCHER",
+      "path": "multiball-launcher",
+      "version": 1,
+      "description": "Rico blasts waves of bouncy bullets in all directions.",
+      "descriptionHtml": "Rico blasts waves of bouncy bullets in all directions.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000246.png",
+      "released": true
+    },
+    {
+      "id": 23000409,
+      "name": "BOUNCY-CASTLE",
+      "path": "bouncy-castle",
+      "version": 1,
+      "description": "Rico's next basic attack will heal him for x health from each projectile bounce.",
+      "descriptionHtml": "Rico's next basic attack will heal him for <span style=\"color:#00cc00;\">x</span> health from each projectile bounce.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000409.png",
+      "released": true
+    }
+  ]
+}

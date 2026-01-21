@@ -1,0 +1,27 @@
+{
+  "id": 16000009,
+  "avatarId": 28000008,
+  "name": "DYNAMIKE",
+  "hash": "dynamike",
+  "path": "dynamike",
+  "fankit": "dynamike",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/dynamike",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000009.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000009.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000009.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
+  "descriptionHtml": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
+  "videos": []
+}

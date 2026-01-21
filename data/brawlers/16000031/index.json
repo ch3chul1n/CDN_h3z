@@ -1,0 +1,27 @@
+{
+  "id": 16000031,
+  "avatarId": 28000048,
+  "name": "MR-P",
+  "hash": "mr-p",
+  "path": "mr-p",
+  "fankit": "mr-p",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/mr-p",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000031.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000031.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000031.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
+  "descriptionHtml": "Mr. P is in over his head trying to run a hotel. He's always yelling at his employees to work faster, as if they could understand his gibberish!",
+  "videos": []
+}

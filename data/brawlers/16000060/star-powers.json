@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000503,
+      "name": "HEARTY-RECOVERY",
+      "path": "hearty-recovery",
+      "version": 1,
+      "description": "Upon recalling his Knuckle Busters, Sam instantly recovers x% of his missing health.",
+      "descriptionHtml": "Upon recalling his Knuckle Busters, Sam instantly recovers <span style=\"color:#00cc00;\">x%</span> of his missing health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000503.png",
+      "released": true
+    },
+    {
+      "id": 23000504,
+      "name": "REMOTE-RECHARGE",
+      "path": "remote-recharge",
+      "version": 1,
+      "description": "While the Knuckle Busters are on the ground and near enemies, they will charge up Sam's Super.",
+      "descriptionHtml": "While the Knuckle Busters are on the ground and near enemies, they will charge up Sam's Super.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000504.png",
+      "released": true
+    }
+  ]
+}

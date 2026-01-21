@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000480,
+      "name": "SUGAR-RUSH",
+      "path": "sugar-rush",
+      "version": 1,
+      "description": "Clyde's movement and reload speed are increased by x% for x seconds.",
+      "descriptionHtml": "Clyde's movement and reload speed are increased by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000480.png",
+      "released": true
+    },
+    {
+      "id": 23000481,
+      "name": "CRASH-TEST",
+      "path": "crash-test",
+      "version": 1,
+      "description": "Bonnie dashes forward, knocking back enemies and dealing x damage on hit.",
+      "descriptionHtml": "Bonnie dashes forward, knocking back enemies and dealing <span style=\"color:#00cc00;\">x</span> damage on hit.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000481.png",
+      "released": true
+    }
+  ]
+}

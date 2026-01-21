@@ -1,0 +1,27 @@
+{
+  "id": 16000089,
+  "avatarId": 28000704,
+  "name": "MEEPLE",
+  "hash": "meeple",
+  "path": "meeple",
+  "fankit": "meeple",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/meeple",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000089.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000089.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000089.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Meeple knows the rules to every board game in existence and if you break them... Well let's just say you don't want to break them. They hate cheaters and those who break the rules. There's only one exception... Meeple themselves!",
+  "descriptionHtml": "Meeple knows the rules to every board game in existence and if you break them... Well let's just say you don't want to break them. They hate cheaters and those who break the rules. There's only one exception... Meeple themselves!",
+  "videos": []
+}

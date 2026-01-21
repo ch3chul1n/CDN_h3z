@@ -1,0 +1,27 @@
+{
+  "id": 16000076,
+  "avatarId": 28000382,
+  "name": "KIT",
+  "hash": "kit",
+  "path": "kit",
+  "fankit": "kit",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/kit",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000076.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000076.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000076.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
+  "descriptionHtml": "Stuck giving autographs to his rabid fans at Starr Toon Studios, cartoony superstar Kit often daydreams of becoming relevant in the industry again, respected for his acting chops rather than his looks.",
+  "videos": []
+}

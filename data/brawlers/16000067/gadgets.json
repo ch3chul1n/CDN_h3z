@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000563,
+      "name": "SPELLBOUND",
+      "path": "spellbound",
+      "version": 1,
+      "description": "Willow's next Lantern's Curse deals x more damage and applies the entire damage instantly rather than over time.",
+      "descriptionHtml": "Willow's next Lantern's Curse deals <span style=\"color:#00cc00;\">x</span> more damage and applies the entire damage instantly rather than over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000563.png",
+      "released": true
+    },
+    {
+      "id": 23000564,
+      "name": "DIVE",
+      "path": "dive",
+      "version": 1,
+      "description": "Willow dives for x seconds, becoming untargetable but unable to take any action for the duration.",
+      "descriptionHtml": "Willow dives for <span style=\"color:#00cc00;\">x</span> seconds, becoming untargetable but unable to take any action for the duration.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000564.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000340,
+      "name": "LETS-FLY",
+      "path": "lets-fly",
+      "version": 1,
+      "description": "Edgar's Super charges faster, x% for x seconds.",
+      "descriptionHtml": "Edgar's Super charges faster, <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000340.png",
+      "released": true
+    },
+    {
+      "id": 23000403,
+      "name": "HARDCORE",
+      "path": "hardcore",
+      "version": 1,
+      "description": "Edgar gets a shield that protects him from the next x damage. The shield gets weaker over time.",
+      "descriptionHtml": "Edgar gets a shield that protects him from the next <span style=\"color:#00cc00;\">x</span> damage. The shield gets weaker over time.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000403.png",
+      "released": true
+    }
+  ]
+}

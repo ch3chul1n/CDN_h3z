@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000659,
+      "name": "PROTOCOL-PROTECT",
+      "path": "protocol-protect",
+      "version": 1,
+      "description": "While Lawrie is in range, transfer x% incoming damage to himself instead.",
+      "descriptionHtml": "While Lawrie is in range, transfer <span style=\"color:#00cc00;\">x%</span> incoming damage to himself instead.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000659.png",
+      "released": true
+    },
+    {
+      "id": 23000660,
+      "name": "PROTOCOL-ASSIST",
+      "path": "protocol-assist",
+      "version": 1,
+      "description": "While Lawrie is in range, reload x% of your ammo whenever he damages an enemy.",
+      "descriptionHtml": "While Lawrie is in range, reload <span style=\"color:#00cc00;\">x%</span> of your ammo whenever he damages an enemy.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000660.png",
+      "released": true
+    }
+  ]
+}

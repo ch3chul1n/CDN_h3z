@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000804,
+      "name": "SKIPPING-STONES",
+      "path": "skipping-stones",
+      "version": 1,
+      "description": "Moe's basic attacks bounce one more time. The range of the attack remains the same.",
+      "descriptionHtml": "Moe's basic attacks bounce one more time. The range of the attack remains the same.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000804.png",
+      "released": true
+    },
+    {
+      "id": 23000805,
+      "name": "SPEEDING-TICKET",
+      "path": "speeding-ticket",
+      "version": 1,
+      "description": "Moe's Driller has increased travel speed.",
+      "descriptionHtml": "Moe's Driller has increased travel speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000805.png",
+      "released": true
+    }
+  ]
+}

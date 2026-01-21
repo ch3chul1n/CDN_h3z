@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000595,
+      "name": "DOUBLE-SAUSAGE",
+      "path": "double-sausage",
+      "version": 1,
+      "description": "The next Snack Attack only heals allies but doubles the amount.",
+      "descriptionHtml": "The next Snack Attack only heals allies but doubles the amount.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000595.png",
+      "released": true
+    },
+    {
+      "id": 23000596,
+      "name": "EXTRA-MUSTARD",
+      "path": "extra-mustard",
+      "version": 1,
+      "description": "The next Snack Attack only damages enemies but doubles the amount.",
+      "descriptionHtml": "The next Snack Attack only damages enemies but doubles the amount.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000596.png",
+      "released": true
+    }
+  ]
+}

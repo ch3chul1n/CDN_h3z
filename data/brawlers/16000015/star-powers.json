@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000091,
+      "name": "AMBUSH",
+      "path": "ambush",
+      "version": 1,
+      "description": "Piper's attack deals +x extra damage (at max range) when she's hidden in a bush.",
+      "descriptionHtml": "Piper's attack deals <span style=\"color:#00cc00;\">+x</span> extra damage (at max range) when she's hidden in a bush.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000091.png",
+      "released": true
+    },
+    {
+      "id": 23000152,
+      "name": "SNAPPY-SNIPING",
+      "path": "snappy-sniping",
+      "version": 1,
+      "description": "When Piper hits an opponent with her attack, she reloads x ammo instantly.",
+      "descriptionHtml": "When Piper hits an opponent with her attack, she reloads <span style=\"color:#00cc00;\">x</span> ammo instantly.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000152.png",
+      "released": true
+    }
+  ]
+}

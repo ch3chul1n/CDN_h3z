@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000084,
+      "name": "BEAR-WITH-ME",
+      "path": "bear-with-me",
+      "version": 1,
+      "description": "Nita recovers x health whenever her bear hits an enemy Brawler. When Nita deals damage to an enemy Brawler, her bear regains x health.",
+      "descriptionHtml": "Nita recovers <span style=\"color:#00cc00;\">x</span> health whenever her bear hits an enemy Brawler. When Nita deals damage to an enemy Brawler, her bear regains <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000084.png",
+      "released": true
+    },
+    {
+      "id": 23000136,
+      "name": "HYPER-BEAR",
+      "path": "hyper-bear",
+      "version": 1,
+      "description": "Nita's bear attacks faster. Time between swipes is reduced by x%.",
+      "descriptionHtml": "Nita's bear attacks faster. Time between swipes is reduced by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000136.png",
+      "released": true
+    }
+  ]
+}

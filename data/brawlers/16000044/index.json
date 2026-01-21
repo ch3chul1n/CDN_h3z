@@ -1,0 +1,27 @@
+{
+  "id": 16000044,
+  "avatarId": 28000059,
+  "name": "RUFFS",
+  "hash": "ruffs",
+  "path": "ruffs",
+  "fankit": "ruffs",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/ruffs",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000044.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000044.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000044.png",
+  "class": {
+    "id": 7,
+    "name": "SUPPORT"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
+  "descriptionHtml": "Ruffs is a loyal, highly disciplined space colonel who runs a tight ship and does everything by the book. But deep down, he just wants to be a good boy!",
+  "videos": []
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23001039,
+      "name": "ZUM-ZUM-ZUM",
+      "path": "zum-zum-zum",
+      "version": 1,
+      "description": "Mina's combo Attack 3 also heals for x% of damage done.",
+      "descriptionHtml": "Mina's combo Attack 3 also heals for <span style=\"color:#00cc00;\">x%</span> of damage done.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001039.png",
+      "released": true
+    },
+    {
+      "id": 23001040,
+      "name": "BLOWN-AWAY",
+      "path": "blown-away",
+      "version": 1,
+      "description": "Mina's Super also roots enemies on the spot.",
+      "descriptionHtml": "Mina's Super also roots enemies on the spot.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23001040.png",
+      "released": true
+    }
+  ]
+}

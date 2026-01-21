@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000134,
+      "name": "HOME-RUN",
+      "path": "home-run",
+      "version": 1,
+      "description": "Bibi's movement speed is increased by x% when her Home Run bar is fully charged.",
+      "descriptionHtml": "Bibi's movement speed is increased by <span style=\"color:#00cc00;\">x%</span> when her Home Run bar is fully charged.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000134.png",
+      "released": true
+    },
+    {
+      "id": 23000146,
+      "name": "BATTING-STANCE",
+      "path": "batting-stance",
+      "version": 1,
+      "description": "When Bibi's Homerun bar is fully charged, she shields herself from all damage by x%.",
+      "descriptionHtml": "When Bibi's Homerun bar is fully charged, she shields herself from all damage by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000146.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000269,
+      "name": "SERVICE-BELL",
+      "path": "service-bell",
+      "version": 1,
+      "description": "Mr. P buffs his current porter by increasing its damage by x and health by x.",
+      "descriptionHtml": "Mr. P buffs his current porter by increasing its damage by <span style=\"color:#00cc00;\">x</span> and health by <span style=\"color:#00cc00;\">x</span>.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000269.png",
+      "released": true
+    },
+    {
+      "id": 23000349,
+      "name": "PORTER-REINFORCEMENTS",
+      "path": "porter-reinforcements",
+      "version": 1,
+      "description": "The next attack will spawn a weak porter where the attack lands.",
+      "descriptionHtml": "The next attack will spawn a weak porter where the attack lands.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000349.png",
+      "released": true
+    }
+  ]
+}

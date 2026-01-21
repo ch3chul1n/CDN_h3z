@@ -1,0 +1,27 @@
+{
+  "id": 16000019,
+  "avatarId": 28000035,
+  "name": "PENNY",
+  "hash": "penny",
+  "path": "penny",
+  "fankit": "penny",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/penny",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000019.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000019.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000019.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 3,
+    "name": "Super Rare",
+    "color": "#5ab3ff"
+  },
+  "unlock": null,
+  "description": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
+  "descriptionHtml": "Penny doesn't care about studying old maps or puzzling over sea shanty riddles. She's a pirate so she can blow stuff up and grab whatever she wants!",
+  "videos": []
+}

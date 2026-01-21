@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000383,
+      "name": "FOOT-PATROL",
+      "path": "foot-patrol",
+      "version": 1,
+      "description": "When Grom's Super is fully charged, he gains +x% faster movement speed!",
+      "descriptionHtml": "When Grom's Super is fully charged, he gains <span style=\"color:#00cc00;\">+x%</span> faster movement speed!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000383.png",
+      "released": true
+    },
+    {
+      "id": 23000384,
+      "name": "X-FACTOR",
+      "path": "x-factor",
+      "version": 1,
+      "description": "The split from Grom's main attack deals up to +x% extra damage at max distance.",
+      "descriptionHtml": "The split from Grom's main attack deals up to <span style=\"color:#00cc00;\">+x%</span> extra damage at max distance.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000384.png",
+      "released": true
+    }
+  ]
+}

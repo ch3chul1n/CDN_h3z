@@ -1,0 +1,27 @@
+{
+  "id": 16000014,
+  "avatarId": 28000015,
+  "name": "BO",
+  "hash": "bo",
+  "path": "bo",
+  "fankit": "bo",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/bo",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000014.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000014.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000014.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
+  "descriptionHtml": "Bo has survived in the Rumble Jungle for a long time. It's all the more impressive considering he's been using toys he got on sale from the Gift Shop.",
+  "videos": []
+}

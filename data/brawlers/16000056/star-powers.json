@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000452,
+      "name": "UNNATURAL-ORDER",
+      "path": "unnatural-order",
+      "version": 1,
+      "description": "Reverses the order of the eggs shot by her Egg Shooter.",
+      "descriptionHtml": "Reverses the order of the eggs shot by her Egg Shooter.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000452.png",
+      "released": true
+    },
+    {
+      "id": 23000453,
+      "name": "HAPPY-SURPRISE",
+      "path": "happy-surprise",
+      "version": 1,
+      "description": "Every x seconds, the next largest egg hitting an enemy of her Egg Shooter will spawn a hatchling.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, the next largest egg hitting an enemy of her Egg Shooter will spawn a hatchling.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000453.png",
+      "released": true
+    }
+  ]
+}

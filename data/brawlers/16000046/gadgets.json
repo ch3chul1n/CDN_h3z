@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000371,
+      "name": "NEST-EGG",
+      "path": "nest-egg",
+      "version": 1,
+      "description": "Belle places a trap on the ground that will explode when triggered by an opponent. The trap deals x damage, and slows down anyone within its blast radius for x seconds.",
+      "descriptionHtml": "Belle places a trap on the ground that will explode when triggered by an opponent. The trap deals <span style=\"color:#00cc00;\">x</span> damage, and slows down anyone within its blast radius for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000371.png",
+      "released": true
+    },
+    {
+      "id": 23000463,
+      "name": "REVERSE-POLARITY",
+      "path": "reverse-polarity",
+      "version": 1,
+      "description": "Belle's next Electro-Bolt bounces from walls.",
+      "descriptionHtml": "Belle's next Electro-Bolt bounces from walls.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000463.png",
+      "released": true
+    }
+  ]
+}

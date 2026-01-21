@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000774,
+      "name": "SNAPPY-SHOOTING",
+      "path": "snappy-shooting",
+      "version": 1,
+      "description": "Clancy gains double tokens for x seconds.",
+      "descriptionHtml": "Clancy gains double tokens for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000774.png",
+      "released": true
+    },
+    {
+      "id": 23000775,
+      "name": "TACTICAL-RETREAT",
+      "path": "tactical-retreat",
+      "version": 1,
+      "description": "Clancy dashes and reloads x ammo",
+      "descriptionHtml": "Clancy dashes and reloads <span style=\"color:#00cc00;\">x</span> ammo",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000775.png",
+      "released": true
+    }
+  ]
+}

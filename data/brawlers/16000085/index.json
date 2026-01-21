@@ -1,0 +1,27 @@
+{
+  "id": 16000085,
+  "avatarId": 28000593,
+  "name": "KENJI",
+  "hash": "kenji",
+  "path": "kenji",
+  "fankit": "kenji",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/kenji",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000085.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000085.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000085.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something about his past... though his sushi tastes so good, nobody cares!",
+  "descriptionHtml": "This highly skilled sushi chef has a wholesome life running his restaurant in Starr Park, but it feels like he's trying to hide something about his past... though his sushi tastes so good, nobody cares!",
+  "videos": []
+}

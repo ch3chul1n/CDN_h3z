@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000331,
+      "name": "MALAISE",
+      "path": "malaise",
+      "version": 1,
+      "description": "Byron's Super will also cause opponents to receive x% less healing from any source for x seconds.",
+      "descriptionHtml": "Byron's Super will also cause opponents to receive <span style=\"color:#00cc00;\">x%</span> less healing from any source for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000331.png",
+      "released": true
+    },
+    {
+      "id": 23000332,
+      "name": "INJECTION",
+      "path": "injection",
+      "version": 1,
+      "description": "Every x seconds the next basic attack will pierce through targets.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds the next basic attack will pierce through targets.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000332.png",
+      "released": true
+    }
+  ]
+}

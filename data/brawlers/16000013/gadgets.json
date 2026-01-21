@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000267,
+      "name": "TUNING-FORK",
+      "path": "tuning-fork",
+      "version": 1,
+      "description": "Poco and all nearby allies heal x health per second for x seconds.",
+      "descriptionHtml": "Poco and all nearby allies heal <span style=\"color:#00cc00;\">x</span> health per second for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000267.png",
+      "released": true
+    },
+    {
+      "id": 23000350,
+      "name": "PROTECTIVE-TUNES",
+      "path": "protective-tunes",
+      "version": 1,
+      "description": "Removes active adverse effects from friendly Brawlers in a large area and gives a x second immunity.",
+      "descriptionHtml": "Removes active adverse effects from friendly Brawlers in a large area and gives a <span style=\"color:#00cc00;\">x</span> second immunity.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000350.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 16000015,
+  "avatarId": 28000018,
+  "name": "PIPER",
+  "hash": "piper",
+  "path": "piper",
+  "fankit": "piper",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/piper",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000015.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000015.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000015.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
+  "descriptionHtml": "Piper wants nothing more than to be the local village baker who hands out pies, cookies and other sweet treats! Just don't ask about her past.",
+  "videos": []
+}

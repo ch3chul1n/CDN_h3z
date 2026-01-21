@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000268,
+      "name": "AUTO-AIMER",
+      "path": "auto-aimer",
+      "version": 1,
+      "description": "Piper pops a defensive shot at the closest enemy, dealing x damage, while also pushing them back.",
+      "descriptionHtml": "Piper pops a defensive shot at the closest enemy, dealing <span style=\"color:#00cc00;\">x</span> damage, while also pushing them back.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000268.png",
+      "released": true
+    },
+    {
+      "id": 23000291,
+      "name": "HOMEMADE-RECIPE",
+      "path": "homemade-recipe",
+      "version": 1,
+      "description": "On activation, Piper's next main attack will home in on enemies.",
+      "descriptionHtml": "On activation, Piper's next main attack will home in on enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000291.png",
+      "released": true
+    }
+  ]
+}

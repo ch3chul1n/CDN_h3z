@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000537,
+      "name": "WALKING-CANE",
+      "path": "walking-cane",
+      "version": 1,
+      "description": "Gray's next hit from the Finger Pistol shoots a walking cane which pulls enemies back by a bit.",
+      "descriptionHtml": "Gray's next hit from the Finger Pistol shoots a walking cane which pulls enemies back by a bit.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000537.png",
+      "released": true
+    },
+    {
+      "id": 23000538,
+      "name": "GRAND-PIANO",
+      "path": "grand-piano",
+      "version": 1,
+      "description": "Gray's next hit from the Finger Pistol will also leave a target on the ground where a piano will land and hurt enemies. It would be too bad if someone would get hurt, right?",
+      "descriptionHtml": "Gray's next hit from the Finger Pistol will also leave a target on the ground where a piano will land and hurt enemies.<br>It would be too bad if someone would get hurt, right?",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000538.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000438,
+      "name": "FRESH-KICKS",
+      "path": "fresh-kicks",
+      "version": 1,
+      "description": "When Fang defeats an enemy Brawler with his Super, it's recharged instantly, allowing him to use his Super again!",
+      "descriptionHtml": "When Fang defeats an enemy Brawler with his Super, it's recharged instantly, allowing him to use his Super again!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000438.png",
+      "released": true
+    },
+    {
+      "id": 23000439,
+      "name": "DIVINE-SOLES",
+      "path": "divine-soles",
+      "version": 1,
+      "description": "Reduce x damage from incoming hits once every x seconds. Maximum reduction is x% of the incoming damage.",
+      "descriptionHtml": "Reduce <span style=\"color:#00cc00;\">x</span> damage from incoming hits once every <span style=\"color:#00cc00;\">x</span> seconds. Maximum reduction is <span style=\"color:#00cc00;\">x%</span> of the incoming damage.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000439.png",
+      "released": true
+    }
+  ]
+}

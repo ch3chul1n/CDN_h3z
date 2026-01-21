@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000119,
+      "name": "SMOKE-TRAILS",
+      "path": "smoke-trails",
+      "version": 1,
+      "description": "When Leon uses his Super, he gains a x% boost to his movement speed for the duration of his invisibility.",
+      "descriptionHtml": "When Leon uses his Super, he gains a <span style=\"color:#00cc00;\">x%</span> boost to his movement speed for the duration of his invisibility.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000119.png",
+      "released": true
+    },
+    {
+      "id": 23000141,
+      "name": "INVISIHEAL",
+      "path": "invisiheal",
+      "version": 1,
+      "description": "Leon recovers x health per second while his Super is active.",
+      "descriptionHtml": "Leon recovers <span style=\"color:#00cc00;\">x</span> health per second while his Super is active.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000141.png",
+      "released": true
+    }
+  ]
+}

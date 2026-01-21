@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000505,
+      "name": "MAGNETIC-FIELD",
+      "path": "magnetic-field",
+      "version": 1,
+      "description": "While the Knuckle Busters are on the ground, Sam can activate them to pull in nearby enemies.",
+      "descriptionHtml": "While the Knuckle Busters are on the ground, Sam can activate them to pull in nearby enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000505.png",
+      "released": true
+    },
+    {
+      "id": 23000506,
+      "name": "PULSE-REPELLENT",
+      "path": "pulse-repellent",
+      "version": 1,
+      "description": "Upon landing on the ground, Sam's next deployed Knuckle Busters releases an electric pulse that knocks back enemies.",
+      "descriptionHtml": "Upon landing on the ground, Sam's next deployed Knuckle Busters releases an electric pulse that knocks back enemies.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000506.png",
+      "released": true
+    }
+  ]
+}

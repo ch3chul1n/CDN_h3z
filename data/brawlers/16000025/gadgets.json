@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000262,
+      "name": "HEAT-EJECTOR",
+      "path": "heat-ejector",
+      "version": 1,
+      "description": "The next pickaxe Carl throws will drop a trail of hot rocks behind it! Opponents that touch them are set on fire and receive x damage per second.",
+      "descriptionHtml": "The next pickaxe Carl throws will drop a trail of hot rocks behind it! Opponents that touch them are set on fire and receive <span style=\"color:#00cc00;\">x</span> damage per second.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000262.png",
+      "released": true
+    },
+    {
+      "id": 23000317,
+      "name": "FLYING-HOOK",
+      "path": "flying-hook",
+      "version": 1,
+      "description": "Carl's next attack makes his pickaxe pull him to the farthest point of the attack.",
+      "descriptionHtml": "Carl's next attack makes his pickaxe pull him to the farthest point of the attack.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000317.png",
+      "released": true
+    }
+  ]
+}

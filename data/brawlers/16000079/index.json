@@ -1,0 +1,27 @@
+{
+  "id": 16000079,
+  "avatarId": 28000430,
+  "name": "ANGELO",
+  "hash": "angelo",
+  "path": "angelo",
+  "fankit": "angelo",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/angelo",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000079.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000079.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000079.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
+  "descriptionHtml": "Angelo is the Love Swamp's resident cupid-turned-mosquito. They buzz around the canals looking for lovebirds to dazzle with their irresistible charm, even if those require a little extra, pointy incentive.",
+  "videos": []
+}

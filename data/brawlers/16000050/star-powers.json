@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000397,
+      "name": "KEEP-THE-CHANGE",
+      "path": "keep-the-change",
+      "version": 1,
+      "description": "Furious Griff tosses coins faster, reducing the time for a full salvo by x%.",
+      "descriptionHtml": "Furious Griff tosses coins faster, reducing the time for a full salvo by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000397.png",
+      "released": true
+    },
+    {
+      "id": 23000398,
+      "name": "BUSINESS-RESILIENCE",
+      "path": "business-resilience",
+      "version": 1,
+      "description": "Every x seconds, Griff regains up to x% of his missing health.",
+      "descriptionHtml": "Every <span style=\"color:#00cc00;\">x</span> seconds, Griff regains up to <span style=\"color:#00cc00;\">x%</span> of his missing health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000398.png",
+      "released": true
+    }
+  ]
+}

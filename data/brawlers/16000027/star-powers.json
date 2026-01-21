@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000168,
+      "name": "BOOSTED-BOOSTER",
+      "path": "boosted-booster",
+      "version": 1,
+      "description": "Increases the Damage Booster's range by x% and boosts damage by an additional x%.",
+      "descriptionHtml": "Increases the Damage Booster's range by <span style=\"color:#00cc00;\">x%</span> and boosts damage by an additional <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000168.png",
+      "released": true
+    },
+    {
+      "id": 23000181,
+      "name": "PLUGGED-IN",
+      "path": "plugged-in",
+      "version": 1,
+      "description": "When 8-Bit is near his Damage Booster, he will plug in and have increased movement speed.",
+      "descriptionHtml": "When 8-Bit is near his Damage Booster, he will plug in and have increased movement speed.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000181.png",
+      "released": true
+    }
+  ]
+}

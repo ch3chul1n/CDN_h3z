@@ -1,0 +1,27 @@
+{
+  "id": 16000099,
+  "avatarId": 28001073,
+  "name": "PIERCE",
+  "hash": "pierce",
+  "path": "pierce",
+  "fankit": "pierce",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/pierce",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000099.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000099.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000099.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 6,
+    "name": "Legendary",
+    "color": "#fff11e"
+  },
+  "unlock": null,
+  "description": "You know pool lifeguards? Pierce is one of those. Except he shoots people instead of saving them. OK maybe he isn't like a lifeguard at all. When Buzz decides there has been too much pee in the pool, he calls in Pierce to 'clean up'.",
+  "descriptionHtml": "You know pool lifeguards? Pierce is one of those. Except he shoots people instead of saving them. OK maybe he isn't like a lifeguard at all.<br>When Buzz decides there has been too much pee in the pool, he calls in Pierce to 'clean up'.",
+  "videos": []
+}

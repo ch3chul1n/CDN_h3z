@@ -1,0 +1,27 @@
+{
+  "id": 16000024,
+  "avatarId": 28000040,
+  "name": "ROSA",
+  "hash": "rosa",
+  "path": "rosa",
+  "fankit": "rosa",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/rosa",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000024.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000024.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000024.png",
+  "class": {
+    "id": 2,
+    "name": "TANK"
+  },
+  "rarity": {
+    "id": 2,
+    "name": "Rare",
+    "color": "#68fd58"
+  },
+  "unlock": null,
+  "description": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
+  "descriptionHtml": "Rosa is a botanist with a strong connection to plants. She's also a boxer, and won't hesitate to punch one of her specimens if it goes out of control!",
+  "videos": []
+}

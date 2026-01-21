@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000260,
+      "name": "RECOILING-ROTATOR",
+      "path": "recoiling-rotator",
+      "version": 1,
+      "description": "Darryl spins around and sprays a barrage of shots in all directions. Each shot deals x damage and recharges his Super by x% if it hits enemies!",
+      "descriptionHtml": "Darryl spins around and sprays a barrage of shots in all directions. Each shot deals <span style=\"color:#00cc00;\">x</span> damage and recharges his Super by <span style=\"color:#00cc00;\">x%</span> if it hits enemies!",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000260.png",
+      "released": true
+    },
+    {
+      "id": 23000313,
+      "name": "TAR-BARREL",
+      "path": "tar-barrel",
+      "version": 1,
+      "description": "Darryl creates a slowing area around himself for x seconds.",
+      "descriptionHtml": "Darryl creates a slowing area around himself for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000313.png",
+      "released": true
+    }
+  ]
+}

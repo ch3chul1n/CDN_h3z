@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000247,
+      "name": "POPPING-PINCUSHION",
+      "path": "popping-pincushion",
+      "version": 1,
+      "description": "Spike aims and fires a wave of needles that deal <!card.accessory.skill.damage.scaleToLevel> damage.",
+      "descriptionHtml": "Spike aims and fires a wave of needles that deal <span style=\"color:#00cc00;\"><!card.accessory.skill.damage.scaleToLevel></span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000247.png",
+      "released": true
+    },
+    {
+      "id": 23000406,
+      "name": "LIFE-PLANT",
+      "path": "life-plant",
+      "version": 1,
+      "description": "Spike throws a large cactus with <!card.accessory.skill.summonedCharacter.maxHealth.scaleToLevel> health to give cover to teammates. If destroyed, the cactus bursts, and all nearby teammates recover <!card.accessory.skill.cactusMinionHealing.scaleToLevel> health.",
+      "descriptionHtml": "Spike throws a large cactus with <span style=\"color:#00cc00;\"><!card.accessory.skill.summonedCharacter.maxHealth.scaleToLevel></span> health to give cover to teammates. If destroyed, the cactus bursts, and all nearby teammates recover <span style=\"color:#00cc00;\"><!card.accessory.skill.cactusMinionHealing.scaleToLevel></span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000406.png",
+      "released": true
+    }
+  ]
+}

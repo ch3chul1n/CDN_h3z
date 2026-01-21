@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000806,
+      "name": "DODGY-DIGGING",
+      "path": "dodgy-digging",
+      "version": 1,
+      "description": "Moe digs up some \"borrowed\" goods, increasing his Super charge rate by x% for x seconds.",
+      "descriptionHtml": "Moe digs up some \"borrowed\" goods, increasing his Super charge rate by <span style=\"color:#00cc00;\">x%</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000806.png",
+      "released": true
+    },
+    {
+      "id": 23000807,
+      "name": "RAT-RACE",
+      "path": "rat-race",
+      "version": 1,
+      "description": "Moe dashes a short distance in his Driller, destroying walls and knocking back Brawlers in the process.",
+      "descriptionHtml": "Moe dashes a short distance in his Driller, destroying walls and knocking back Brawlers in the process.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000807.png",
+      "released": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000848,
+      "name": "GUARDED-GRIS-GRIS",
+      "path": "guarded-gris-gris",
+      "version": 1,
+      "description": "Gris-Gris is summoned with a protective shield.",
+      "descriptionHtml": "Gris-Gris is summoned with a protective shield.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000848.png",
+      "released": true
+    },
+    {
+      "id": 23000849,
+      "name": "NUMBING-NEEDLES",
+      "path": "numbing-needles",
+      "version": 1,
+      "description": "Gris-Gris' attack now also slows the enemy for <VALUE> sec",
+      "descriptionHtml": "Gris-Gris' attack now also slows the enemy for <span style=\"color:#00cc00;\"><VALUE></span> sec",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000849.png",
+      "released": true
+    }
+  ]
+}

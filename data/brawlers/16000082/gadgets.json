@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000766,
+      "name": "FRIENDSHIP-IS-GREAT",
+      "path": "friendship-is-great",
+      "version": 1,
+      "description": "Berry swipes his tail, knocking back enemies and healing nearby allies for x health.",
+      "descriptionHtml": "Berry swipes his tail, knocking back enemies and healing nearby allies for <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000766.png",
+      "released": true
+    },
+    {
+      "id": 23000767,
+      "name": "HEALTHY-ADDITIVES",
+      "path": "healthy-additives",
+      "version": 1,
+      "description": "Berry's next main attack area lasts for x% longer.",
+      "descriptionHtml": "Berry's next main attack area lasts for <span style=\"color:#00cc00;\">x%</span> longer.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000767.png",
+      "released": true
+    }
+  ]
+}

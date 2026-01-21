@@ -1,0 +1,27 @@
+{
+  "id": 16000059,
+  "avatarId": 28000105,
+  "name": "OTIS",
+  "hash": "otis",
+  "path": "otis",
+  "fankit": "otis",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/otis",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000059.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000059.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000059.png",
+  "class": {
+    "id": 5,
+    "name": "CONTROLLER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
+  "descriptionHtml": "Otis is a young street artist on the come-up who works by shooting ink at the walls. Nobody knows his true identity, which only adds to his mystique!",
+  "videos": []
+}

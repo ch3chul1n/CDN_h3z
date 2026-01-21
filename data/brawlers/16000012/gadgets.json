@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000243,
+      "name": "DEFENSE-BOOSTER",
+      "path": "defense-booster",
+      "version": 1,
+      "description": "Crow gets a shield for x% of incoming damage for x seconds.",
+      "descriptionHtml": "Crow gets a shield for <span style=\"color:#00cc00;\">x%</span> of incoming damage for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000243.png",
+      "released": true
+    },
+    {
+      "id": 23000286,
+      "name": "SLOWING-TOXIN",
+      "path": "slowing-toxin",
+      "version": 1,
+      "description": "All currently poisoned enemies are slowed for x seconds.",
+      "descriptionHtml": "All currently poisoned enemies are slowed for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000286.png",
+      "released": true
+    }
+  ]
+}

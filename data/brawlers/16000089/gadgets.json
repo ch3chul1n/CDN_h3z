@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000877,
+      "name": "MANSIONS-OF-MEEPLE",
+      "path": "mansions-of-meeple",
+      "version": 1,
+      "description": "Meeple's next attack creates dice towers around the impact area and deals x damage.",
+      "descriptionHtml": "Meeple's next attack creates dice towers around the impact area and deals <span style=\"color:#00cc00;\">x</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000877.png",
+      "released": true
+    },
+    {
+      "id": 23000878,
+      "name": "RAGEQUIT",
+      "path": "ragequit",
+      "version": 1,
+      "description": "Meeple lashes out in rage at nearby enemies, stunning and knocking them back. The less hitpoints Meeple has, the stun and knockback effects increase.",
+      "descriptionHtml": "Meeple lashes out in rage at nearby enemies, stunning and knocking them back. The less hitpoints Meeple has, the stun and knockback effects increase.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000878.png",
+      "released": true
+    }
+  ]
+}

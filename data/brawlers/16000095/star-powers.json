@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000989,
+      "name": "LIZARD-LIMBS",
+      "path": "lizard-limbs",
+      "version": 1,
+      "description": "While enraged Alli regenerates health faster out of combat after only x seconds.",
+      "descriptionHtml": "While enraged Alli regenerates health faster out of combat after only <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000989.png",
+      "released": true
+    },
+    {
+      "id": 23000990,
+      "name": "YOU-BETTER-RUN-YOU-BETTER-TAKE-COVER",
+      "path": "you-better-run-you-better-take-cover",
+      "version": 1,
+      "description": "Alli reloads x% faster while enraged.",
+      "descriptionHtml": "Alli reloads <span style=\"color:#00cc00;\">x%</span> faster while enraged.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000990.png",
+      "released": true
+    }
+  ]
+}

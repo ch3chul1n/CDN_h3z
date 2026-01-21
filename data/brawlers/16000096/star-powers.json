@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000998,
+      "name": "NEW-INSECT-OVERLORDS",
+      "path": "new-insect-overlords",
+      "version": 1,
+      "description": "Ants also reduce the damage of enemies by x%",
+      "descriptionHtml": "Ants also reduce the damage of enemies by <span style=\"color:#00cc00;\">x%</span>",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000998.png",
+      "released": true
+    },
+    {
+      "id": 23000999,
+      "name": "COLONY-SCOUTS",
+      "path": "colony-scouts",
+      "version": 1,
+      "description": "Ants reveal hidden enemies.",
+      "descriptionHtml": "Ants reveal hidden enemies.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000999.png",
+      "released": true
+    }
+  ]
+}

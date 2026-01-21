@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000285,
+      "name": "POWER-SURGE",
+      "path": "power-surge",
+      "version": 1,
+      "description": "Surge overloads his circuits and increases his upgrade stage by x for x seconds.",
+      "descriptionHtml": "Surge overloads his circuits and increases his upgrade stage by <span style=\"color:#00cc00;\">x</span> for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000285.png",
+      "released": true
+    },
+    {
+      "id": 23000485,
+      "name": "POWER-SHIELD",
+      "path": "power-shield",
+      "version": 1,
+      "description": "Within the next x seconds, Surge consumes x% of the damage of the next incoming hit and uses the energy to reload x ammo.",
+      "descriptionHtml": "Within the next <span style=\"color:#00cc00;\">x</span> seconds, Surge consumes <span style=\"color:#00cc00;\">x%</span> of the damage of the next incoming hit and uses the energy to reload <span style=\"color:#00cc00;\">x</span> ammo.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000485.png",
+      "released": true
+    }
+  ]
+}

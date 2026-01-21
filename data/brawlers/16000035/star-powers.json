@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000228,
+      "name": "BLUSTERY-BLOW",
+      "path": "blustery-blow",
+      "version": 1,
+      "description": "Gale's Super now stuns enemies for x seconds if they are pushed against obstacles.",
+      "descriptionHtml": "Gale's Super now stuns enemies for <span style=\"color:#00cc00;\">x</span> seconds if they are pushed against obstacles.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000228.png",
+      "released": true
+    },
+    {
+      "id": 23000229,
+      "name": "FREEZING-SNOW",
+      "path": "freezing-snow",
+      "version": 1,
+      "description": "Gale's snow balls now also slow down opponents for x seconds.",
+      "descriptionHtml": "Gale's snow balls now also slow down opponents for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000229.png",
+      "released": true
+    }
+  ]
+}

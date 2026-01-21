@@ -1,0 +1,27 @@
+{
+  "id": 16000017,
+  "avatarId": 28000029,
+  "name": "TARA",
+  "hash": "tara",
+  "path": "tara",
+  "fankit": "tara",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/tara",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000017.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000017.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000017.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Tara has seen in the cards that great difficulties lie ahead! But don't despair... she has a terrific selection of magical trinkets for sale to help with that.",
+  "descriptionHtml": "Tara has seen in the cards that great difficulties lie ahead! But don't despair... she has a terrific selection of magical trinkets for sale to help with that.",
+  "videos": []
+}

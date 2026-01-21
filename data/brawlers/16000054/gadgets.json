@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000440,
+      "name": "CORN-FU",
+      "path": "corn-fu",
+      "version": 1,
+      "description": "Fang tosses a handful of corn kernels into the air, making it rain popcorn! Each kernel pop deals x damage.",
+      "descriptionHtml": "Fang tosses a handful of corn kernels into the air, making it rain popcorn! Each kernel pop deals <span style=\"color:#00cc00;\">x</span> damage.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000440.png",
+      "released": true
+    },
+    {
+      "id": 23000464,
+      "name": "ROUNDHOUSE-KICK",
+      "path": "roundhouse-kick",
+      "version": 1,
+      "description": "Fang spins and hits all enemies around him, stunning them for x seconds.",
+      "descriptionHtml": "Fang spins and hits all enemies around him, stunning them for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000464.png",
+      "released": true
+    }
+  ]
+}

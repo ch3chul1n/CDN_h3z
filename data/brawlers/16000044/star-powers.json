@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000345,
+      "name": "AIR-SUPERIORITY",
+      "path": "air-superiority",
+      "version": 1,
+      "description": "Supply Drop now includes a bomb that adds x% more damage to the drop and also allows it to destroy walls.",
+      "descriptionHtml": "Supply Drop now includes a bomb that adds <span style=\"color:#00cc00;\">x%</span> more damage to the drop and also allows it to destroy walls.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000345.png",
+      "released": true
+    },
+    {
+      "id": 23000346,
+      "name": "FIELD-PROMOTION",
+      "path": "field-promotion",
+      "version": 1,
+      "description": "Friendly Brawlers have their maximum health increased by x every second that they are in range of this ability while it's active.",
+      "descriptionHtml": "Friendly Brawlers have their maximum health increased by <span style=\"color:#00cc00;\">x</span> every second that they are in range of this ability while it's active.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000346.png",
+      "released": true
+    }
+  ]
+}

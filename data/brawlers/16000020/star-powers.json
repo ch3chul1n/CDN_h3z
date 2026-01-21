@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000104,
+      "name": "POWER-GRAB",
+      "path": "power-grab",
+      "version": 1,
+      "description": "Frank steals the power of a Brawler he defeats, increasing his damage by x% for x seconds!",
+      "descriptionHtml": "Frank steals the power of a Brawler he defeats, increasing his damage by <span style=\"color:#00cc00;\">x%</span> for x seconds!",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000104.png",
+      "released": true
+    },
+    {
+      "id": 23000153,
+      "name": "SPONGE",
+      "path": "sponge",
+      "version": 1,
+      "description": "Frank gains +x health.",
+      "descriptionHtml": "Frank gains <span style=\"color:#00cc00;\">+x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000153.png",
+      "released": true
+    }
+  ]
+}

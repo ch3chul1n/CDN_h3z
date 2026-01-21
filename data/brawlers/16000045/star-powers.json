@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000362,
+      "name": "ZERO-DRAG",
+      "path": "zero-drag",
+      "version": 1,
+      "description": "Stu's Nitro Boost Super dash distance increases by x%.",
+      "descriptionHtml": "Stu's Nitro Boost Super dash distance increases by <span style=\"color:#00cc00;\">x%</span>.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000362.png",
+      "released": true
+    },
+    {
+      "id": 23000363,
+      "name": "GASO-HEAL",
+      "path": "gaso-heal",
+      "version": 1,
+      "description": "Using his Nitro Boost Super restores x of Stu's health.",
+      "descriptionHtml": "Using his Nitro Boost Super restores <span style=\"color:#00cc00;\">x</span> of Stu's health.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000363.png",
+      "released": true
+    }
+  ]
+}

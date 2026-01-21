@@ -1,0 +1,27 @@
+{
+  "id": 16000046,
+  "avatarId": 28000065,
+  "name": "BELLE",
+  "hash": "belle",
+  "path": "belle",
+  "fankit": "belle",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/belle",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000046.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000046.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000046.png",
+  "class": {
+    "id": 3,
+    "name": "MARKSMAN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
+  "descriptionHtml": "The leader of the notorious Goldarm Gang, Belle is after more than money. She wants to find out the truth behind Starr Park and bring it down!",
+  "videos": []
+}

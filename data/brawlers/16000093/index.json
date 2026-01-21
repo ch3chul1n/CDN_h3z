@@ -1,0 +1,27 @@
+{
+  "id": 16000093,
+  "avatarId": 28000832,
+  "name": "JAE-YONG",
+  "hash": "jae-yong",
+  "path": "jae-yong",
+  "fankit": "jae-yong",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/jae-yong",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000093.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000093.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000093.png",
+  "class": {
+    "id": 0,
+    "name": "Unknown"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.",
+  "descriptionHtml": "By day, Jae-yong is your average office worker. By night, he is a karaoke GOD... or so he thinks. The jury is still out on his singing skills.",
+  "videos": []
+}

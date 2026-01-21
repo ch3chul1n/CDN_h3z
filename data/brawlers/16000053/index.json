@@ -1,0 +1,27 @@
+{
+  "id": 16000053,
+  "avatarId": 28000075,
+  "name": "LOLA",
+  "hash": "lola",
+  "path": "lola",
+  "fankit": "lola",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/lola",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000053.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000053.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000053.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
+  "descriptionHtml": "Lola makes sure everyone knows when she enters a room. She's an expert in the fine art of causing a scene to get what she wants, and she's proud of it!",
+  "videos": []
+}

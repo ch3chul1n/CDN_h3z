@@ -1,0 +1,27 @@
+{
+  "id": 16000043,
+  "avatarId": 28000058,
+  "name": "EDGAR",
+  "hash": "edgar",
+  "path": "edgar",
+  "fankit": "edgar",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/edgar",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000043.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000043.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000043.png",
+  "class": {
+    "id": 6,
+    "name": "ASSASSIN"
+  },
+  "rarity": {
+    "id": 4,
+    "name": "Epic",
+    "color": "#d850ff"
+  },
+  "unlock": null,
+  "description": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
+  "descriptionHtml": "Edgar believes nobody understands him. Certainly not his mom, who thinks he's going through a phase. Only he knows the darkness in his soul is eternal.",
+  "videos": []
+}

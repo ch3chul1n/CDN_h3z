@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000905,
+      "name": "42-BURNT",
+      "path": "42-burnt",
+      "version": 1,
+      "description": "The explosions from Lumi's Blast Beat also set the area alight for x seconds. Fire damage also scales with explosion damage. Damage per second for the biggest explosion: x",
+      "descriptionHtml": "The explosions from Lumi's Blast Beat also set the area alight for <span style=\"color:#00cc00;\">x</span> seconds. Fire damage also scales with explosion damage. Damage per second for the biggest explosion: <span style=\"color:#00cc00;\">x</span>",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000905.png",
+      "released": true
+    },
+    {
+      "id": 23000906,
+      "name": "HALF-TIME",
+      "path": "half-time",
+      "version": 1,
+      "description": "Lumi slows enemies hit by her recalled morning stars for x seconds.",
+      "descriptionHtml": "Lumi slows enemies hit by her recalled morning stars for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000906.png",
+      "released": true
+    }
+  ]
+}

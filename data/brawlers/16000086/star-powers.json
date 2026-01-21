@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000832,
+      "name": "SPOOKY-SPEEDSTER",
+      "path": "spooky-speedster",
+      "version": 1,
+      "description": "Hitting opponents with the center of Shade's main attack gives a short movement speed boost.",
+      "descriptionHtml": "Hitting opponents with the center of Shade's main attack gives a short movement speed boost.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000832.png",
+      "released": true
+    },
+    {
+      "id": 23000833,
+      "name": "HARDENED-HOODIE",
+      "path": "hardened-hoodie",
+      "version": 1,
+      "description": "Shade gets x% damage reduction while in its Incorporeal Form.",
+      "descriptionHtml": "Shade gets <span style=\"color:#00cc00;\">x%</span> damage reduction while in its Incorporeal Form.",
+      "imageUrl": "https://cdn.brawlify.com/star-powers/borderless/23000833.png",
+      "released": true
+    }
+  ]
+}

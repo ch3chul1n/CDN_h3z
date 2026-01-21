@@ -1,0 +1,27 @@
+{
+  "id": 16000066,
+  "avatarId": 28000245,
+  "name": "R-T",
+  "hash": "r-t",
+  "path": "r-t",
+  "fankit": "r-t",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/r-t",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000066.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000066.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000066.png",
+  "class": {
+    "id": 1,
+    "name": "DAMAGE-DEALER"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
+  "descriptionHtml": "R-T is designed to be a helpful information kiosk, but he's also been given the task of monitoring all activity within Starr Park. For safety reasons, of course.",
+  "videos": []
+}

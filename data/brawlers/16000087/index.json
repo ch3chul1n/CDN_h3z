@@ -1,0 +1,27 @@
+{
+  "id": 16000087,
+  "avatarId": 28000648,
+  "name": "JUJU",
+  "hash": "juju",
+  "path": "juju",
+  "fankit": "juju",
+  "released": true,
+  "version": 1,
+  "link": "https://brawlify.com/brawlers/detail/juju",
+  "imageUrl": "https://cdn.brawlify.com/brawlers/borders/16000087.png",
+  "imageUrl2": "https://cdn.brawlify.com/brawlers/borderless/16000087.png",
+  "imageUrl3": "https://cdn.brawlify.com/brawlers/emoji/16000087.png",
+  "class": {
+    "id": 4,
+    "name": "ARTILLERY"
+  },
+  "rarity": {
+    "id": 5,
+    "name": "Mythic",
+    "color": "#fe5e72"
+  },
+  "unlock": null,
+  "description": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
+  "descriptionHtml": "Juju owns the Oddities Shop and is followed everywhere by her \"pet\" voodoo doll, Gris-Gris (pronounced Gregory). Although she can control the elements, Juju is also a talented toymaker who makes dolls to sell to Starr Park's many visitors.",
+  "videos": []
+}

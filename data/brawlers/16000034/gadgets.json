@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000256,
+      "name": "PNEUMATIC-BOOSTER",
+      "path": "pneumatic-booster",
+      "version": 1,
+      "description": "Jacky gets a burst of energy and moves x% faster for x seconds.",
+      "descriptionHtml": "Jacky gets a burst of energy and moves <span style=\"color:#00cc00;\">x</span>% faster for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000256.png",
+      "released": true
+    },
+    {
+      "id": 23000486,
+      "name": "REBUILD",
+      "path": "rebuild",
+      "version": 1,
+      "description": "Jacky rebuilds the environment in a small radius around her.",
+      "descriptionHtml": "Jacky rebuilds the environment in a small radius around her.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000486.png",
+      "released": true
+    }
+  ]
+}

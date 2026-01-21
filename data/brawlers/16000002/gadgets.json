@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 23000272,
+      "name": "T-BONE-INJECTOR",
+      "path": "t-bone-injector",
+      "version": 1,
+      "description": "Bull instantly rejuvenates himself for x health.",
+      "descriptionHtml": "Bull instantly rejuvenates himself for <span style=\"color:#00cc00;\">x</span> health.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000272.png",
+      "released": true
+    },
+    {
+      "id": 23000310,
+      "name": "STOMPER",
+      "path": "stomper",
+      "version": 1,
+      "description": "Bull's next Super will stun any opponent they hit for x seconds.",
+      "descriptionHtml": "Bull's next Super will stun any opponent they hit for <span style=\"color:#00cc00;\">x</span> seconds.",
+      "imageUrl": "https://cdn.brawlify.com/gadgets/borderless/23000310.png",
+      "released": true
+    }
+  ]
+}
