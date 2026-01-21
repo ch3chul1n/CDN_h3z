@@ -1,15 +1,5 @@
 {
-  "name": "brawlstars-cdn",
-  "type": "javascript",
-  "main": "src/index.ts",
-  "build": {
-    "command": "",
-    "cwd": "",
-    "watch_paths": []
-  },
-  "env": {},
+  "name": "cdn-h3z",
   "compatibility_date": "2026-01-21",
-  "assets": {
-    "directory": "."
-  }
+  "pages_build_output_dir": "."
 }
